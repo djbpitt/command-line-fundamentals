@@ -1,0 +1,50 @@
+start = schedule
+schedule = element schedule { meta, day+ }
+day = element day { d, title, slot+ }
+d = attribute d { "Monday" | "Tuesday" | "Wednesday" | "Thursday" | "Friday" }
+meta = element meta { startDate }
+startDate = element startDate { xsd:date }
+title = element title { text }
+desc =
+    element desc {
+        mixed { (code | q)* }
+    }
+code = element code { url?, text }
+url = attribute url { xsd:anyURI }
+slot = element slot { clocktime, title, desc?, activity+ }
+# @clocktime is starting time in "09:00:00" 24-hour format
+clocktime = attribute time { xsd:time }
+# @durtime format is "PTxHyM", where "PT" is required, "x" is the 
+# number of hours and "y" the number of minutes, expressed as integers 
+activity = element act { image?, durtime, desc, details? }
+durtime = attribute time { xsd:duration }
+details = element details { item+ }
+item =
+    element item {
+        mixed { (link | q | code | emph | image | answer)* },
+        examples?
+    }
+image = element image { alt, size, text }
+alt = attribute alt { text }
+# describes the image
+size = attribute size { "icon" | "larger" }
+link =
+    element link {
+        xsd:string { pattern = "\S+" }
+    }
+q =
+    element q {
+        mixed { code* }
+    }
+examples = element examples { example+ }
+example =
+    element example {
+        mixed { (answer | examples | link | q | code | emph | image)* }
+    }
+emph = element emph { url?, text }
+answer =
+    element answer {
+        type?,
+        mixed { (code | emph | link | q)* }
+    }
+type = attribute type { "inline" | "block" }
