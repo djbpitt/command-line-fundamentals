@@ -1,0 +1,32 @@
+a.link-no-style {
+  color: inherit;
+}
+a.btn {color:#F4EEE2;}
+body {background-color:#F4EEE2; font-family:cambria, "palatino linotype", times, serif;}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    font-family:Verdana, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", "Verdana Ref", sans-serif;}
+h1 {font-size: 1.8em; color:#F4EEE2;}
+h2 {font-size: 1.6em; color:#F4EEE2;}
+h3 {font-size: 1.4em;}
+h4 {font-size: 1.2em;}
+/*  table#team tr td img {max-width:150px; width:15%;}*/
+tr:nth-child(even) {background: #f0f5f5}
+.rpad {padding-right:2em;}
+div#credits {padding-top:1.5em;}
+
+@media screen and (min-width: 64em) {
+  .page-header-subpages {
+    padding: 0.5rem 0.6rem; } }
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .page-header-subpages {
+    padding: 0.3rem 0.4rem; } }
+
+@media screen and (max-width: 42em) {
+  .page-header-subpages {
+    padding: 0.2rem 0.1rem; } }
