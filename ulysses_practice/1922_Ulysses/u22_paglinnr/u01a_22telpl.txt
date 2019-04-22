@@ -1,0 +1,728 @@
+﻿3.01  <p>Stately, plump Buck Mulligan came from the stairhead, bearing a bowl of
+3.02  lather on which a mirror and a razor lay crossed. A yellow dressinggown,
+3.03  ungirdled, was sustained gently behind him by the mild morning air. He held
+3.04  the bowl aloft and intoned:</p>
+3.05  <p>--<i>Introibo ad altare Dei.</i></p>
+3.06  <p>Halted, he peered down the dark winding stairs and called up coarsely:</p>
+3.07  <p>--Come up, Kinch. Come up, you fearful Jesuit.</p>
+3.08  <p>Solemnly he came forward and mounted the round gunrest. He faced
+3.09  about and blessed gravely thrice the tower, the surrounding country and the
+3.10  awaking mountains. Then, catching sight of Stephen Dedalus, he bent towards
+3.11  him and made rapid crosses in the air, gurgling in his throat and shaking his
+3.12  head. Stephen Dedalus, displeased and sleepy, leaned his arms on the top of the
+3.13  staircase and looked coldly at the shaking gurgling face that blessed him, equine
+3.14  in its length, and at the light untonsured hair, grained and hued like pale oak.</p>
+3.15  <p>Buck Mulligan peeped an instant under the mirror and then covered the
+3.16  bowl smartly.</p>
+3.17  <p>--Back to barracks, he said sternly.</p>
+3.18  <p>He added in a preacher's tone:</p>
+3.19  <p>--For this, O dearly beloved, is the genuine Christine: body and soul and
+3.20  blood and ouns. Slow music, please. Shut your eyes, gents. One moment. A
+3.21  little trouble about those white corpuscles. Silence, all.</p>
+3.22  <p>He peered sideways up and gave a long low whistle of call then paused
+3.23  awhile in rapt attention, his even white teeth glistening here and there with
+3.24  gold points. Chrysostomos. Two strong shrill whistles answered through
+3.25  the calm.</p>
+3.26  <p>--Thanks, old chap, he cried briskly. That will do nicely. Switch off
+3.27  the current, will you?</p>
+4.01  <p>He skipped off the gunrest and looked gravely at his watcher, gathering
+4.02  about his legs the loose folds of his gown. The plump shadowed face and
+4.03  sullen oval jowl recalled a prelate, patron of arts in the middle ages. A pleasant
+4.04  smile broke quietly over his lips.</p>
+4.05  <p>--The mockery of it, he said gaily. Your absurd name, an ancient
+4.06  Greek.</p>
+4.07  <p>He pointed his finger in friendly jest and went over to the parapet,
+4.08  laughing to himself. Stephen Dedalus stepped up, followed him wearily halfway
+4.09  and sat down  on the edge of the gunrest, watching him still as he propped
+4.10  his mirror on the parapet, dipped the brush in the bowl and lathered cheeks
+4.11  and neck.</p>
+4.12  <p>Buck Mulligan's gay voice went on.</p>
+4.13  <p>--My name is absurd too: Malachi Mulligan, two dactyls. But it has a
+4.14  Hellenic ring, hasn't it? Tripping and sunny like the buck himself. We must
+4.15  go to Athens. Will you come if I can get the aunt to fork out twenty quid?</p>
+4.16  <p>He laid the brush aside and, laughing with delight, cried:</p>
+4.17  <p>--Will he come? The jejune jesuit.</p>
+4.18  <p>Ceasing, he began to shave with care.</p>
+4.19  <p>--Tell me, Mulligan, Stephen said quietly.</p>
+4.20  <p>--Yes, my love?</p>
+4.21  <p>--How long is Haines going to stay in this tower?</p>
+4.22  <p>Buck Mulligan showed a shaven cheek over his right shoulder.</p>
+4.23  <p>--God, isn't he dreadful? he said frankly. A ponderous Saxon. He thinks
+4.24  you're not a gentleman. God, these bloody English. Bursting with money
+4.25  and indigestion. Because he comes from Oxford. You know, Dedalus, you
+4.26  have the real Oxford manner. He can't make you out. O, my name for you
+4.27  is the best: Kinch, the knifeblade.</p>
+4.28  <p>He shaved warily over his chin.</p>
+4.29  <p>--He was raving all night about a black panther, Stephen said. Where
+4.30  is his guncase?</p>
+4.31  <p>--A woful lunatic, Mulligan said. Were you in a funk?</p>
+4.32  <p>--I was, Stephen said with energy and growing fear. Out here in the
+4.33  dark with a man I don't know raving and moaning to himself about shooting
+4.34  a black panther. You saved men from drowning. I'm not a hero, however. If
+4.35  he stays on here I am off.</p>
+4.36  <p>Buck Mulligan frowned at the lather on his razor blade. He hopped down
+4.37  from his perch and began to search his trouser pockets hastily.</p>
+5.01  <p>--Scutter, he cried thickly.</p>
+5.02  <p>He came over to the gunrest and, thrusting a hand into Stephen's upper
+5.03  pocket, said:</p>
+5.04  <p>--Lend us a loan of your noserag to wipe my razor.</p>
+5.05  <p>Stephen suffered him to pull out and hold up on show by its corner a
+5.06  dirty crumpled handkerchief. Buck Mulligan wiped the razorblade neatly. Then,
+5.07  gazing over the handkerchief, he said:</p>
+5.08  <p>--The bard's noserag. A new art colour for our Irish poets: snotgreen.
+5.09  You can almost taste it, can't you?</p>
+5.10  <p>He mounted to the parapet again and gazed out over Dublin bay, his fair
+5.11  oakpale hair stirring slightly.</p>
+5.12  <p>--God, he said quietly. Isn't the sea what Algy calls it: a great sweet
+5.13  mother? The snotgreen sea. The scrotumtightening sea. <i>Epi oinopa ponton.</i>
+5.14  Ah, Dedalus, the Greeks. I must teach you. You must read them in the
+5.15  original. <i>Thalatta! Thalatta!</i> She is our great sweet mother. Come and look.</p>
+5.16  <p>Stephen stood up and went over to the parapet. Leaning on it he looked down
+5.17  on the water and on the mailboat clearing the harbour mouth of Kingstown.</p>
+5.18  <p>--Our mighty mother, Buck Mulligan said.</p>
+5.19  <p>He turned abruptly his great searching eyes from the sea to Stephen's face.</p>
+5.20  <p>--The aunt thinks you killed your mother, he said. That's why she
+5.21  won't let me have anything to do with you.</p>
+5.22  <p>--Someone killed her, Stephen said gloomily.</p>
+5.23  <p>--You could have knelt down, damn it, Kinch, when your dying mother
+5.24  asked you, Buck Mulligan said. I'm hyperborean as much as you. But to
+5.25  think of your mother begging you with her last breath to kneel down and pray
+5.26  for her. And you refused. There is something sinister in you ...</p>
+5.27  <p>He broke off and lathered again lightly his farther cheek. A tolerant
+5.28  smile curled his lips.</p>
+5.29  <p>--But a lovely mummer, he murmured to himself. Kinch, the loveliest
+5.30  mummer of them all.</p>
+5.31  <p>He shaved evenly and with care, in silence, seriously.</p>
+5.32  <p>Stephen, an elbow rested on the jagged granite, leaned his palm against
+5.33  his brow and gazed at the fraying edge of his shiny black coatsleeve. Pain,
+5.34  that was not yet the pain of love, fretted his heart. Silently, in a dream she
+5.35  had come to him after her death, her wasted body within its loose brown
+5.36  graveclothes giving off an odour of wax and rosewood, her breath, that had
+5.37  bent upon him, mute, reproachful, a faint odour of wetted ashes. Across the
+6.01  threadbare cuffedge he saw the sea hailed as a great sweet mother by the wellfed
+6.02  voice beside him. The ring of bay and skyline held a dull green mass of
+6.03  liquid. A bowl of white china had stood beside her deathbed holding the green
+6.04  sluggish bile which she had torn up from her rotting liver by fits of loud
+6.05  groaning vomiting.</p>
+6.06  <p>Buck Mulligan wiped again his razorblade.</p>
+6.07  <p>--Ah, poor dogsbody, he said in a kind voice. I must give you a shirt
+6.08  and a few noserags. How are the secondhand breeks?</p>
+6.09  <p>--They fit well enough, Stephen answered.</p>
+6.10  <p>Buck Mulligan attacked the hollow beneath his underlip.</p>
+6.11  <p>--The mockery of it, he said contentedly, secondleg they should be.
+6.12  God knows what poxy bowsy left them off. I have a lovely pair with a hair
+6.13  stripe, grey. You'll look spiffing in them. I'm not joking, Kinch. You look
+6.14  damn well when you're dressed.</p>
+6.15  <p>--Thanks, Stephen said. I can't wear them if they are grey.</p>
+6.16  <p>--He can't wear them, Buck Mulligan told his face in the mirror. Eti-//quette
+6.17  is etiquette. He kills his mother but he can't wear grey trousers.</p>
+6.18  <p>He folded his razor neatly and with stroking palps of fingers felt the
+6.19  smooth skin.</p>
+6.20  <p>Stephen turned his gaze from the sea and to the plump face with its
+6.21  smokeblue mobile eyes.</p>
+6.22  <p>--That fellow I was with in the Ship last night, said Buck Mulligan
+6.23  says you have g. p. i. He's up in Dottyville with Conolly Norman. General
+6.24  paralysis of the insane.</p>
+6.25  <p>He swept the mirror a half circle in the air to flash the tidings abroad in
+6.26  sunlight now radiant on the sea. His curling shaven lips laughed and the
+6.27  edges of his white glittering teeth. Laughter seized all his strong wellknit trunk.</p>
+6.28  <p>--Look at yourself, he said, you dreadful bard.</p>
+6.29  <p>Stephen bent forward and peered at the mirror held out to him, cleft by
+6.30  a crooked crack, hair on end. As he and others see me. Who chose this face
+6.31  for me? This dogsbody to rid of vermin. It asks me too.</p>
+6.32  <p>--I pinched it out of the skivvy's room, Buck Mulligan said. It does her
+6.33  all right. The aunt always keeps plainlooking servants for Malachi. Lead him not
+6.34  into temptation. And her name is Ursula.</p>
+6.35  <p>Laughing again, he brought the mirror away from Stephen's peering eyes.</p>
+6.36  <p>--The rage of Caliban at not seeing his face in a mirror, he said. If
+6.37  Wilde were only alive to see you.</p>
+7.01  <p>Drawing back and pointing, Stephen said with bitterness:</p>
+7.02  <p>--It is a symbol of Irish art. The cracked lookingglass of a servant.</p>
+7.03  <p>Buck Mulligan suddenly linked his arm in Stephen's and walked with him
+7.04  round the tower, his razor and mirror clacking in the pocket where he had
+7.05  thrust them.</p>
+7.06  <p>--It's not fair to tease you like that, Kinch, is it? he said kindly. God
+7.07  knows you have more spirit than any of them.</p>
+7.08  <p>Parried again. He fears the lancet of my art as I fear that of his. The cold
+7.09  steel pen.</p>
+7.10  <p>--Cracked lookingglass of a servant. Tell that to the oxy chap down-//stairs
+7.11  and touch him for a guinea. He's stinking with money and thinks
+7.12  you're not a gentleman. His old fellow made his tin by selling jalap to Zulus
+7.13  or some bloody swindle or other. God, Kinch, if you and I could only
+7.14  work together we might do something for the island. Hellenise it.</p>
+7.15  <p>Cranly's arm. His arm.</p>
+7.16  <p>--And to think of your having to beg from these swine. I'm the only
+7.17  one that knows what you are. Why don't you trust me more? What have
+7.18  you up your nose against me? Is it Haines? If he makes any noise here I'll
+7.19  bring down Seymour and we'll give him a ragging worse than they gave
+7.20  Clive Kempthorpe.</p>
+7.21  <p>Young shouts of moneyed voices in Clive Kempthorpe's rooms. Pale-//faces:
+7.22  they hold their ribs with laughter, one clasping another, O, I shall
+7.23  expire! Break the news to her gently, Aubrey! I shall die! With slit ribbons
+7.24  of his shirt whipping the air he hops and hobbles round the table, with
+7.25  trousers down at heels, chased by Ades of Magdalen with the tailor's shears.
+7.26  A scared calf's face gilded with marmalade. I don't want to be debagged! Don't
+7.27  you play the giddy ox with me!</p>
+7.28  <p>Shouts from the open window startling evening in the quadrangle. A
+7.29  deaf gardener, aproned, masked with Matthew Arnold's face, pushes his mower
+7.30  on the sombre lawn watching narrowly the dancing motes of grasshalms.</p>
+7.31  <p>To ourselves ... new paganism ... omphalos.</p>
+7.32  <p>--Let him stay, Stephen said. There's nothing wrong with him except at
+7.33  night.</p>
+7.34  <p>--Then what is it? Buck Mulligan asked impatiently. Cough it up. I'm
+7.35  quite frank with you. What have you against me now?</p>
+7.36  <p>They halted, looking towards the blunt cape of Bray Head that lay on the
+7.37  water like the snout of a sleeping whale. Stephen freed his arm quietly.</p>
+8.01  <p>--Do you wish me to tell you? he asked.</p>
+8.02  <p>--Yes, what is it? Buck Mulligan answered. I don't remember anything.</p>
+8.03  <p>He looked in Stephen's face as he spoke. A light wind passed his brow,
+8.04  fanning softly his fair uncombed hair and stirring silver points of anxiety in his
+8.05  eyes.</p>
+8.06  <p>Stephen, depressed by his own voice, said:</p>
+8.07  <p>--Do you remember the first day I went to your house after my mother's
+8.08  death?</p>
+8.09  <p>Buck Mulligan frowned quickly and said:</p>
+8.10  <p>--What? Where? I can't remember anything. I remember only ideas and
+8.11  sensations. Why? What happened in the name of God?</p>
+8.12  <p>--You were making tea, Stephen said, and I went across the landing to
+8.13  get more hot water. Your mother and some visitor came out of the drawing
+8.14  room. She asked you who was in your room.</p>
+8.15  <p>--Yes? Buck Mulligan said. What did I say? I forget.</p>
+8.16  <p>--You said, Stephen answered, <i>O, it's only Dedalus whose mother is
+8.17  beastly dead</i>.</p>
+8.18  <p>A flush which made him seem younger and more engaging rose to Buck
+8.19  Mulligan's cheek.</p>
+8.20  <p>--Did I say that? he asked. Well? What harm is that?</p>
+8.21  <p>He shook his constraint from him nervously.</p>
+8.22  <p>--And what is death, he asked, your mother's or yours or my own?
+8.23  You saw only your mother die. I see them pop off every day in the Mater
+8.24  and Richmond and cut up into tripes in the dissecting room. It's a beastly
+8.25  thing and nothing else. It simply doesn't matter. You wouldn't kneel down
+8.26  to pray for your mother on her deathbed when she asked you. Why? Because
+8.27  you have the cursed jesuit strain in you, only it's injected the wrong way.
+8.28  To me it's all a mockery and beastly. Her cerebral lobes are not functioning.
+8.29  She calls the doctor Sir Peter Teazle and picks buttercups off the quilt.
+8.30  Humour her till it's over. You crossed her last wish in death and yet you sulk
+8.31  with me because I don't whinge like some hired mute from Lalouette's.
+8.32  Absurd! I suppose I did say it. I didn't mean to offend the memory of your
+8.33  mother.</p>
+8.34  <p>He had spoken himself into boldness. Stephen, shielding the gaping wounds
+8.35  which the words had left in his heart, said very coldly:</p>
+8.36  <p>--I am not thinking of the offence to my mother.</p>
+8.37  <p>--Of what, then? Buck Mulligan asked.</p>
+9.01  <p>--Of the offence to me, Stephen answered.</p>
+9.02  <p>Buck Mulligan swung round on his heel.</p>
+9.03  <p>--O, an impossible person! he exclaimed.</p>
+9.04  <p>He walked off quickly round the parapet. Stephen stood at his post, gazing
+9.05  over the calm sea towards the headland. Sea and headland now grew dim.
+9.06  Pulses were beating in his eyes, veiling their sight, and he felt the fever of his
+9.07  cheeks.</p>
+9.08  <p>A voice within the tower called loudly:</p>
+9.09  <p>--Are you up there, Mulligan?</p>
+9.10  <p>--I'm coming, Buck Mulligan answered.</p>
+9.11  <p>He turned towards Stephen and said:</p>
+9.12  <p>--Look at the sea. What does it care about offences? Chuck Loyola,
+9.13  Kinch, and come on down. The Sassenach wants his morning rashers.</p>
+9.14  <p>His head halted again for a moment at the top of the staircase, level with
+9.15  the roof:</p>
+9.16  <p>--Don't mope over it all day, he said. I'm inconsequent. Give up the
+9.17  moody brooding.</p>
+9.18  <p>His head vanished but the drone of his descending voice boomed out or
+9.19  the stairhead:</p>
+9.20  <p><i>And no more turn aside and brood</i></p>
+9.21  <p><i>Upon love's bitter mystery</i></p>
+9.22  <p><i>For Fergus rules the brazen cars.</i></p>
+9.23  <p>Woodshadows floated silently by through the morning peace from the
+9.24  stairhead seaward where he gazed. Inshore and farther out the mirror of
+9.25  water whitened, spurned by lightshod hurrying feet. White breast of the dim
+9.26  sea. The twining stresses, two by two. A hand plucking the harpstrings merg-//ing
+9.27  their twining chords. Wavewhite wedded words shimmering on the dim
+9.28  tide.</p>
+9.29  <p>A cloud began to cover the sun slowly,  shadowing the bay in deeper
+9.30  green. It lay behind him, a bowl of bitter waters. Fergus' song: I sang it
+9.31  above in the house, holding down the long dark chords. Her door was open:
+9.32  she wanted to hear my music. Silent with awe and pity I went to her bedside.
+9.33  She was crying in her wretched bed. For those words, Stephen: love's bitter
+9.34  mystery.</p>
+9.35  <p>Where now?</p>
+10.01  <p>Her secrets: old feather fans, tassled dancecards, powdered with musk, a
+10.02  gaud of amber beads in her locked drawer. A birdcage hung in the sunny
+10.03  window of her house when she was a girl. She heard old Royce sing in the
+10.04  pantomine of Turko the terrible and laughed with others when he sang:</p>
+10.05  <p><i>I am the boy</i></p>
+10.06  <p><i>That can enjoy</i></p>
+10.07  <p><i>Invisibility.</i></p>
+10.08  <p>Phantasmal mirth, folded away: muskperfumed.</p>
+10.09  <p><i>And no more turn aside and brood.</i></p>
+10.10  <p>Folded away in the memory of nature with her toys. Memories beset
+10.11  his brooding brain. Her glass of water from the kitchen tap when she had
+10.12  approached the sacrament. A cored apple, filled with brown sugar, roasting
+10.13  for her at the hob on a dark autumn evening. Her shapely fingernails reddened
+10.14  by the blood of squashed lice from the children's shirts.</p>
+10.15  <p>In a dream, silently, she had come to him, her wasted body within its
+10.16  loose graveclothes giving off an odour of wax and rosewood, her breath bent
+10.17  over him with mute secret words, a faint odour of wetted ashes.</p>
+10.18  <p>Her glazing eyes, staring out of death, to shake and bend my soul. On me
+10.19  alone. The ghostcandle to light her agony. Ghostly light on the tortured
+10.20  face. Her hoarse loud breath rattling in horror, while all prayed on their knees.
+10.21  Her eyes on me to strike me down. <i>Liliata rutilantium te confessorum turma
+10.22  circumdet: iubilantium te virginum chorus excipiat.</i></p>
+10.23  <p>Ghoul! Chewer of corpses!</p>
+10.24  <p>No, mother. Let me be and let me live.</p>
+10.25  <p>--Kinch ahoy!</p>
+10.26  <p>Buck Mulligan's voice sang from within the tower. It came nearer up the
+10.27  staircase, calling again. Stephen, still trembling at his soul's cry, heard warm
+10.28  running sunlight and in the air behind him friendly words.</p>
+10.29  <p>--Dedalus, come down, like a good mosey. Breakfast is ready. Haines is
+10.30  apologising for waking us last night. It's all right.</p>
+10.31  <p>--I'm coming, Stephen said, turning.</p>
+10.32  <p>--Do, for Jesus' sake, Buck Mulligan said. For my sake and for all our
+10.33  sakes.</p>
+11.01  <p>His head disappeared and reappeared.</p>
+11.02  <p>--I told him your symbol of Irish art. He says it's very clever. Touch
+11.03  him for a quid, will you? A guinea, I mean.</p>
+11.04  <p>--I get paid this morning, Stephen said.</p>
+11.05  <p>--The school kip? Buck Mulligan said. How much? Four quid? Lend
+11.06  us one.</p>
+11.07  <p>--If you want it, Stephen said.</p>
+11.08  <p>--Four shining sovereigns, Buck Mulligan cried with delight. We'll have
+11.09  a glorious drunk to astonish the druidy druids. Four omnipotent sovereigns.</p>
+11.10  <p>He flung up his hands and tramped down the stone stairs, singing out of
+11.11  tune with a Cockney accent:</p>
+11.12  <p><i>O, won't we have a merry time,</i></p>
+11.13  <p><i>Drinking whisky, beer and wine,</i></p>
+11.14  <p><i>On coronation</i></p>
+11.15  <p><i>Coronation day?</i></p>
+11.16  <p><i>O, won't we have a merry time</i></p>
+11.17  <p><i>On coronation day?</i></p>
+11.18  <p>Warm sunshine merrying over the sea. The nickel shavingbowl shone,
+11.19  forgotten, on the parapet. Why should I bring it down? Or leave it there all
+11.20  day, forgotten friendship?</p>
+11.21  <p>He went over to it, held it in his hands awhile, feeling its coolness,
+11.22  smelling the clammy slaver of the lather in which the brush was stuck. So I
+11.23  carried the boat of incense then at Clongowes. I am another now and yet the
+11.24  same. A servant too. A server of a servant.</p>
+11.25  <p>In the gloomy domed livingroom of the tower Buck Mulligan's gowned
+11.26  form moved briskly about the hearth to and fro, hiding and revealing its yellow
+11.27  glow. Two shafts of soft daylight fell across the flagged floor from the high
+11.28  barbacans: and at the meeting of their rays a cloud of coalsmoke and fumes of
+11.29  fried grease floated, turning.</p>
+11.30  <p>--We'll be choked, Buck Mulligan said. Haines, open that door, will you?</p>
+11.31  <p>Stephen laid the shavingbowl on the locker. A tall figure rose from the
+11.32  hammock where it had been sitting, went to the doorway and pulled open the
+11.33  inner doors.</p>
+11.34  <p>--Have you the key? a voice asked.</p>
+11.35  <p>--Dedalus has it, Buck Mulligan said. Janey Mack, I'm choked.</p>
+12.01  <p>He howled without looking up from the fire:</p>
+12.02  <p>--Kinch!</p>
+12.03  <p>--It's in the lock, Stephen said, coming forward.</p>
+12.04  <p>The key scraped round harshly twice and, when the heavy door had been
+12.05  set ajar, welcome light and bright air entered. Haines stood at the doorway,
+12.06  looking out. Stephen haled his upended valise to the table and sat down to
+12.07  wait. Buck Mulligan tossed the fry on to the dish beside him. Then he carried
+12.08  the dish and a large teapot over to the table, set them down heavily and sighed
+12.09  with relief.</p>
+12.10  <p>--I'm melting, he said, as the candle remarked when ... But hush. Not a
+12.11  word more on that subject. Kinch, wake up. Bread, butter, honey. Haines, come
+12.12  in. The grub is ready. Bless us, O Lord, and these thy gifts. Where's the
+12.13  sugar? O, jay, there's no milk.</p>
+12.14  <p>Stephen fetched the loaf and the pot of honey and the buttercooler from
+12.15  the locker. Buck Mulligan sat down in a sudden pet.</p>
+12.16  <p>--What sort of a kip is this? he said. I told her to come after eight.</p>
+12.17  <p>--We can drink it black, Stephen said.  There's a lemon in the locker.</p>
+12.18  <p>--O, damn you and your Paris fads, Buck Mulligan said. I want
+12.19  Sandycove milk.</p>
+12.20  <p>Haines came in from the doorway and said quietly:</p>
+12.21  <p>--That woman is coming up with the milk.</p>
+12.22  <p>--The blessings of God on you, Buck Mulligan cried, jumping up from
+12.23  his chair. Sit down. Pour out the tea there. The sugar is in the bag. Here, I
+12.24  can't go fumbling at the damned eggs. He hacked through the fry on the dish
+12.25  and slapped it out on three plates, saying:</p>
+12.26  <p>--<i>In nomine Patris et Filii et Spiritus Sancti.</i></p>
+12.27  <p>Haines sat down to pour out the tea.</p>
+12.28  <p>--I'm giving you two lumps each, he said. But, I say, Mulligan, you
+12.29  do make strong tea, don't you?</p>
+12.30  <p>Buck Mulligan, hewing thick slices from the loaf said in an old woman's
+12.31  wheedling voice:</p>
+12.32  <p>--When I makes tea I makes tea, as old mother Grogan said. And when I
+12.33  makes water I makes water.</p>
+12.34  <p>--By Jove, it is tea, Haines said.</p>
+12.35  <p>Buck Mulligan went on hewing and wheedling:</p>
+12.36  <p>--<i>So I do, Mrs Cahill,</i> says she. <i>Begob, ma'am,</i> says Mrs Cahill, <i>God send
+12.37  you don't make them in the one pot</i>.</p>
+13.01  <p>He lunged towards his messmates in turn a thick slice of bread, impaled
+13.02  on his knife.</p>
+13.03  <p>--That's folk, he said very earnestly, for your book, Haines. Five lines
+13.04  of text and ten pages of notes about the folk and the fishgods of Dundrum.
+13.05  Printed by the weird sisters in the year of the big wind.</p>
+13.06  <p>He turned to Stephen and asked in a fine puzzled voice, lifting his
+13.07  brows:</p>
+13.08  <p>--Can you recall, brother, is mother Grogan's tea and water pot spoken
+13.09  of in the Mabinogion or is it in the Upanishads?</p>
+13.10  <p>--I doubt it, said Stephen gravely.</p>
+13.11  <p>--Do you now? Buck Mulligan said in the same tone. Your reasons,
+13.12  pray?</p>
+13.13  <p>--I fancy, Stephen said as he ate, it did not exist in or out of the
+13.14  Mabinogion. Mother Grogan was, one imagines, a kinswoman of Mary Ann.</p>
+13.15  <p>Buck Mulligan's face smiled with delight.</p>
+13.16  <p>--Charming, he said in a finical sweet voice, showing his white teeth
+13.17  and blinking his eyes pleasantly. Do you think she was? Quite charming.</p>
+13.18  <p>Then, suddenly overclouding all his features, he growled in a hoarsened
+13.19  rasping voice as he hewed again vigorously at the loaf:</p>
+13.20  <p>--<i>For old Mary Ann</i></p>
+13.21  <p><i>She doesn't care a damn.</i></p>
+13.22  <p><i>But, hising up her petticoats</i> ...</p>
+13.23  <p>The doorway was darkened by an entering form.</p>
+13.24  <p>--The milk, sir.</p>
+13.25  <p>--Come in, ma'am, Mulligan said, Kinch, get the jug.</p>
+13.26  <p>An old woman came forward and stood by Stephen's elbow.</p>
+13.27  <p>--That's a lovely morning, sir, she said. Glory be to God.</p>
+13.28  <p>--To whom? Mulligan said, glancing at her. Ah, to be sure.</p>
+13.29  <p>Stephen reached back and took the milkjug from the locker.</p>
+13.30  <p>The islanders, Mulligan said to Haines casually, speak frequently of the
+13.31  collector of prepuces.</p>
+13.32  <p>--How much, sir? asked the old woman.</p>
+13.33  <p>--A quart, Stephen said.</p>
+13.34  <p>He watched her pour into the measure and thence into the jug rich white
+14.01  milk, not hers. Old shrunken paps. She poured again a measureful and a tilly.
+14.02  Old and secret she had entered from a morning world, maybe a messenger.
+14.03  She praised the goodness of the milk, pouring it out. Crouching by a
+14.04  patient cow at daybreak in the lush field, a witch on her toadstool, her wrinkled
+14.05  fingers quick at the squirting dugs. They lowed about her whom they knew,
+14.06  dewsilky cattle. Silk of the kine and poor old woman, names given her in old
+14.07  times. A wandering crone, lowly form of an immortal serving her conqueror
+14.08  and her gay betrayer, their common cuckquean, a messenger from the secret
+14.09  morning. To serve or to upbraid, whether he could not tell: but scorned to
+14.10  beg her favour.</p>
+14.11  <p>--It is indeed, ma'am, Buck Mulligan said, pouring milk into their cups.</p>
+14.12  <p>--Taste it, sir, she said.</p>
+14.13  <p>He drank at her bidding.</p>
+14.14  <p>--If we could only live on good food like that, he said to her somewhat
+14.15  loudly, we wouldn't have the country full of rotten teeth and rotten guts.
+14.16  Living in a bogswamp, eating cheap food and the streets paved with dust,
+14.17  horsedung and consumptives' spits.</p>
+14.18  <p>--Are you a medical student, sir? the old woman asked.</p>
+14.19  <p>--I am, ma'am, Buck Mulligan answered.</p>
+14.20  <p>Stephen listened in scornful silence. She bows her old head to a voice that
+14.21  speaks to her loudly, her bonesetter, her medicineman: me she slights. To the
+14.22  voice that will shrive and oil for the grave all there is of her but her woman's
+14.23  unclean loins, of man's flesh made not in God's likeness the serpent's prey. And
+14.24  to the loud voice that now bids her be silent with wondering unsteady eyes.</p>
+14.25  <p>--Do you understand what he says? Stephen asked her.</p>
+14.26  <p>--Is it French you are talking, sir? the old woman said to Haines.</p>
+14.27  <p>Haines spoke to her again a longer speech, confidently.</p>
+14.28  <p>--Irish, Buck Mulligan said. Is there Gaelic on you?</p>
+14.29  <p>--I thought it was Irish, she said, by the sound of it. Are you from
+14.30  west, sir?</p>
+14.31  <p>--I am an Englishman, Haines answered.</p>
+14.32  <p>--He's English, Buck Mulligan said, and he thinks we ought to speak
+14.33  Irish in Ireland.</p>
+14.34  <p>--Sure we ought to, the old woman said, and I'm ashamed I don't
+14.35  speak the language myself. I'm told it's a grand language by them that knows.</p>
+14.36  <p>--Grand is no name for it, said Buck Mulligan. Wonderful entirely. Fill
+14.37  us out some more tea, Kinch. Would you like a cup, ma'am?</p>
+15.01  <p>--No, thank you, sir, the old woman said, slipping the ring of the
+15.02  milkcan on her forearm and about to go.</p>
+15.03  <p>Haines said to her:</p>
+15.04  <p>--Have you your bill? We had better pay her, Mulligan, hadn't we?</p>
+15.05  <p>Stephen filled again the three cups.</p>
+15.06  <p>--Bill, sir? she said, halting. Well, it's seven mornings a pint at two
+15.07  pence is seven twos is a shilling and twopence over and these three mornings a
+15.08  quart at fourpence is three quarts is a  shilling and one and two is two and two, sir.</p>
+15.09  <p>Buck Mulligan sighed and having filled his mouth with a crust thickly
+15.10  buttered on both sides, stretched forth his legs and began to search his trouser
+15.11  pockets.</p>
+15.12  <p>--Pay up and look pleasant, Haines said to him smiling.</p>
+15.13  <p>Stephen filled a third cup, a spoonful of tea colouring faintly the thick
+15.14  rich milk. Buck Mulligan brought up a florin, twisted it round in his fingers
+15.15  and cried:</p>
+15.16  <p>--A miracle!</p>
+15.17  <p>He passed it along the table towards the old woman, saying:</p>
+15.18  <p>--Ask nothing more of me, sweet. All I can give you I give.</p>
+15.19  <p>Stephen laid the coin in her uneager hand.</p>
+15.20  <p>--We'll owe twopence, he said.</p>
+15.21  <p>--Time enough, sir, she said, taking the coin. Time enough. Good
+15.22  morning, sir.</p>
+15.23  <p>She curtseyed and went out, followed by Buck Mulligan's tender chant:</p>
+15.24  <p>--<i>Heart of my heart, were it more,</i></p>
+15.25  <p><i>More would be laid at your feet.</i></p>
+15.26  <p>He turned to Stephen and said:</p>
+15.27  <p>--Seriously, Dedalus. I'm stony. Hurry out to your school kip and bring
+15.28  us back some money. Today the bards must drink and junket. Ireland expects
+15.29  that every man this day will do his duty.</p>
+15.30  <p>--That reminds me, Haines said, rising, that I have to visit your
+15.31  national library today.</p>
+15.32  <p>--Our swim first, Buck Mulligan said.</p>
+15.33  <p>He turned to Stephen and asked blandly:</p>
+15.34  <p>--Is this the day for your monthly wash, Kinch?</p>
+15.35  <p>Then he said to Haines:</p>
+15.36  <p>--The unclean bard makes a point of washing once a month.</p>
+16.01  <p>--All Ireland is washed by the gulfstream, Stephen said as he let honey
+16.02  trickle over a slice of the loaf.</p>
+16.03  <p>Haines from the corner where he was knotting easily a scarf about the
+16.04  loose collar of his tennis shirt spoke:</p>
+16.05  <p>--I intend to make a collection of your sayings if you will let me.</p>
+16.06  <p>Speaking to me. They wash and tub and scrub. Agenbite of inwit.
+16.07  Conscience. Yet here's a spot.</p>
+16.08  <p>--That one about the cracked lookingglass of a servant being the symbol
+16.09  of Irish art is deuced good.</p>
+16.10  <p>Buck Mulligan kicked Stephen's foot under the table and said with
+16.11  warmth of tone:</p>
+16.12  <p>--Wait till you hear him on Hamlet, Haines.</p>
+16.13  <p>--Well, I mean it, Haines said, still speaking to Stephen. I was just
+16.14  thinking of it when that poor old creature came in.</p>
+16.15  <p>--Would I make  money by it? Stephen asked.</p>
+16.16  <p>Haines laughed and, as he took his soft grey hat from the holdfast of
+16.17  the hammock, said:</p>
+16.18  <p>--I don't know, I'm sure.</p>
+16.19  <p>He strolled out to the doorway. Buck Mulligan bent across to Stephen
+16.20  and said with coarse vigour:</p>
+16.21  <p>--You put your hoof in it now. What did you say that for?</p>
+16.22  <p>--Well? Stephen said. The problem is to get money. From whom?
+16.23  From the milkwoman or from him. It's a toss up, I think.</p>
+16.24  <p>--I blow him out about you, Buck Mulligan said, and then you come
+16.25  along with your lousy leer and your gloomy jesuit jibes.</p>
+16.26  <p>--I see little hope, Stephen said, from her or from him.</p>
+16.27  <p>Buck Mulligan sighed tragically and laid his hand on Stephen's arm.</p>
+16.28  <p>--From me, Kinch, he said.</p>
+16.29  <p>In a suddenly changed tone he added:</p>
+16.30  <p>--To tell you the God's truth I think you're right. Damn all else they
+16.31  are good for. Why don't you play them as I do? To hell with them all. Let
+16.32  us get out of the kip.</p>
+16.33  <p>He stood up, gravely ungirdled and disrobed himself of his gown, saying
+16.34  resignedly:</p>
+16.35  <p>--Mulligan is stripped of his garments.</p>
+16.36  <p>He emptied his pockets on to the table.</p>
+16.37  <p>--There's your snotrag, he said.</p>
+17.01  <p>And putting on his stiff collar and rebellious tie, he spoke to them, chid-//ing
+17.02  them, and to his dangling watchchain. His hands plunged and rummaged
+17.03  in his trunk while he called for a clean handkerchief. Agenbite of inwit. God,
+17.04  we'll simply have to dress the character. I want puce gloves and green boots.
+17.05  Contradiction. Do I contradict myself? Very well then, I contradict myself.
+17.06  Mercurial Malachi. A limp black missile flew out of his talking hands.</p>
+17.07  <p>--And there's your Latin quarter hat, he said.</p>
+17.08  <p>Stephen picked it up and put it on. Haines called to them from the
+17.09  doorway:</p>
+17.10  <p>--Are you coming, you fellows?</p>
+17.11  <p>--I'm ready, Buck Mulligan answered, going towards the door. Come
+17.12  out, Kinch. You have eaten all we left, I suppose. Resigned he passed out
+17.13  with grave words and gait, saying, wellnigh with sorrow:</p>
+17.14  <p>--And going forth he met Butterly.</p>
+17.15  <p>Stephen, taking his ashplant from its leaningplace, followed them out
+17.16  and, as they went down the ladder, pulled to the slow iron door and locked it.
+17.17  He put the huge key in his inner pocket.</p>
+17.18  <p>At the foot of the ladder Buck Mulligan asked:</p>
+17.19  <p>--Did you bring the key?</p>
+17.20  <p>--I have it, Stephen said, preceding them.</p>
+17.21  <p>He walked on. Behind him he heard Buck Mulligan club with his heavy
+17.22  bathtowel the leader shoots of ferns or grasses.</p>
+17.23  <p>--Down, sir. How dare you, sir.</p>
+17.24  <p>Haines asked:</p>
+17.25  <p>--Do you pay rent for this tower?</p>
+17.26  <p>--Twelve quid, Buck Mulligan said.</p>
+17.27  <p>--To the secretary of state for war, Stephen added over his shoulder.</p>
+17.28  <p>They halted while Haines surveyed the tower and said at last:</p>
+17.29  <p>--Rather bleak in wintertime, I should say. Martello you call it?</p>
+17.30  <p>--Billy Pitt had them built, Buck Mulligan said, when the French were
+17.31  on the sea. But ours is the <i>omphalos</i>.</p>
+17.32  <p>--What is your idea of Hamlet? Haines asked Stephen.</p>
+17.33  <p>--No, no, Buck Mulligan shouted in pain. I'm not equal to Thomas
+17.34  Aquinas and the fiftyfive reasons he has made  to prop it up. Wait till I have a
+17.35  few pints in me first.</p>
+17.36  <p>He turned to Stephen, saying as he pulled down neatly the peaks of his
+17.37  primrose waistcoat:</p>
+18.01  <p>--You couldn't manage it under three pints, Kinch, could you?</p>
+18.02  <p>--It has waited so long, Stephen said listlessly, it can wait longer.</p>
+18.03  <p>--You pique my curiosity, Haines said aimiably. Is it some paradox?</p>
+18.04  <p>--Pooh! Buck Mulligan said. We have grown out of Wilde and
+18.05  paradoxes. It's quite simple. He proves by algebra that Hamlet's grandson is
+18.06  Shakespeare's grandfather and that he himself is the ghost of his own father.</p>
+18.07  <p>--What? Haines said, beginning to point at Stephen. He himself?</p>
+18.08  <p>Buck Mulligan slung his towel stolewise round his neck and, bending in
+18.09  loose laughter, said to Stephen's ear:</p>
+18.10  <p>--O, shade of Kinch the elder! Japhet in search of a father!</p>
+18.11  <p>--We're always tired in the morning, Stephen said to Haines. And it is
+18.12  rather long to tell.</p>
+18.13  <p>Buck Mulligan, walking forward again, raised his hands.</p>
+18.14  <p>--The sacred pint alone can unbind the tongue of Dedalus, he said.</p>
+18.15  <p>--I mean to say, Haines explained to Stephen as they followed, this
+18.16  tower and these cliffs here remind me somehow of Elsinore. <i>That beetles o'er
+18.17  his base into the sea,</i> isn't it?</p>
+18.18  <p>Buck Mulligan turned suddenly for an instant towards Stephen but did
+18.19  not speak. In the bright silent instant Stephen saw his own image in cheap
+18.20  dusty mourning between their gay attires.</p>
+18.21  <p>--It's a wonderful tale, Haines said, bringing them to halt again.</p>
+18.22  <p>Eyes, pale as the sea the wind had freshened, paler, firm and prudent.
+18.23  The seas' ruler, he gazed southward over the bay, empty save for the
+18.24  smokeplume of the mailboat, vague on the bright skyline, and a sail tacking
+18.25  by the Muglins.</p>
+18.26  <p>--I read a theological interpretation of it somewhere, he said bemused.
+18.27  The Father and the Son idea. The Son striving to be atoned with the Father.</p>
+18.28  <p>Buck Mulligan at once put on a blithe broadly smiling face. He looked at
+18.29  them, his wellshaped mouth open happily, his eyes, from which he had
+18.30  suddenly withrawn all shrewd sense, blinking with mad gaiety. He moved a
+18.31  doll's head to and fro, the brims of his Panama hat quivering, and began to
+18.32  chant in a quiet happy foolish voice:</p>
+18.33  <p>--<i>I'm the queerest young fellow that ever you heard.</i></p>
+18.34  <p><i>My mother's a jew, my father's a bird.</i></p>
+18.35  <p><i>With Joseph the joiner I cannot agree,</i></p>
+18.36  <p><i>So here's to disciples and Calvary.</i></p>
+19.01  <p>He held up a forefinger of warning.</p>
+19.02  <p>--<i>If anyone thinks that I amn't divine</i></p>
+19.03  <p><i>He'll get no free drinks when I'm making the wine</i></p>
+19.04  <p><i>But have to drink water and wish it were plain</i></p>
+19.05  <p><i>That I make when the wine becomes water again.</i></p>
+19.06  <p>He tugged swiftly at Stephen's ashplant in farewell and, running forward
+19.07  to a brow of the cliff, fluttered his hands at his sides like fins or wings of one
+19.08  about to rise in the air, and chanted:</p>
+19.09  <p>--<i>Goodbye, now, goodbye. Write down all I said</i></p>
+19.10  <p><i>And tell Tom, Dick and Harry I rose from the dead.</i></p>
+19.11  <p><i>What's bred in the bone cannot fail me to fly</i></p>
+19.12  <p><i>And Olivet's breezy ... Goodbye, now, goodbye.</i></p>
+19.13  <p>He capered before them down towards the fortyfoot hole, fluttering his
+19.14  winglike hands, leaping nimbly, Mercury's hat quivering in the fresh wind
+19.15  that bore back to them his brief birdlike cries.</p>
+19.16  <p>Haines, who had been laughing guardedly, walked on beside Stephen and
+19.17  said:</p>
+19.18  <p>--We oughtn't to laugh, I suppose. He's rather blasphemous. I'm not
+19.19  a believer myself, that is to say. Still his gaiety takes the harm out of it
+19.20  somehow, doesn't it? What did he call it? Joseph the Joiner?</p>
+19.21  <p>--The ballad of Joking Jesus, Stephen answered.</p>
+19.22  <p>--O, Haines said, you have heard it before?</p>
+19.23  <p>--Three times a day, after meals, Stephen said drily.</p>
+19.24  <p>--You're not a believer, are you? Haines asked. I mean, a believer in
+19.25  the narrow sense of the word. Creation from nothing and miracles and a
+19.26  personal God.</p>
+19.27  <p>--There's only one sense of the word, it seems to me, Stephen said.</p>
+19.28  <p>Haines stopped to take out a smooth silver case in which twinkled a green
+19.29  stone. He sprang it open with his thumb and offered it.</p>
+19.30  <p>--Thank you, Stephen said, taking a cigarette.</p>
+19.31  <p>Haines helped himself and snapped the case to. He put it back in his
+19.32  sidepocket and took from his waistcoatpocket a nickel tinderbox, sprang it
+20.01  open too, and, having lit his cigarette, held the flaming spunk towards Stephen
+20.02  in the shell of his hands.</p>
+20.03  <p>--Yes, of course, he said, as they went on again. Either you believe or
+20.04  you don't, isn't it? Personally I couldn't stomach that idea of a personal God.
+20.05  You don't stand for that, I suppose?</p>
+20.06  <p>--You behold in me, Stephen said with grim displeasure, a horrible
+20.07  example of free thought.</p>
+20.08  <p>He walked on, waiting to be spoken to, trailing his ashplant by his side.
+20.09  Its ferrule followed lightly on the path, squealing at his heels. My familiar,
+20.10  after me, calling Steeeeeeeeeeeephen. A wavering line along the path. They will
+20.11  walk on it tonight, coming here in the dark. He wants that key. It is mine, I
+20.12  paid the rent. Now I eat his salt bread. Give him the key too. All. He will
+20.13  ask for it. That was in his eyes.</p>
+20.14  <p>--After all, Haines began ...</p>
+20.15  <p>Stephen turned and saw that the cold gaze which had measured him was
+20.16  not all unkind.</p>
+20.17  <p>--After all, I should think you are able to free yourself. You are your
+20.18  own master, it seems to me.</p>
+20.19  <p>--I am the servant of two masters, Stephen said, an English and an
+20.20  Italian.</p>
+20.21  <p>--Italian? Haines said.</p>
+20.22  <p>A crazy queen, old and jealous. Kneel down before me.</p>
+20.23  <p>--And a third, Stephen said, there is who wants me for odd jobs.</p>
+20.24  <p>--Italian? Haines said again. What do you mean?</p>
+20.25  <p>--The imperial British state, Stephen answered, his colour rising, and
+20.26  the holy Roman catholic and apostolic church.</p>
+20.27  <p>Haines detached from his underlip some fibres of tobacco before he spoke.</p>
+20.28  <p>--I can quite understand that, he said calmly. An Irishman must think like
+20.29  that, I daresay. We feel in England that we have treated you rather unfairly.
+20.30  It seems history is to blame.</p>
+20.31  <p>The proud potent titles clanged over Stephen's memory the triumph of
+20.32  their brazen bells: <i>et unam sanctam catholicam et apostolicam ecclesiam:</i> the
+20.33  slow growth and change of rite and dogma like his own rare thoughts, a
+20.34  chemistry of stars. Symbol of the apostles in the mass for pope Marcellus, the
+20.35  voices blended, singing alone loud in affirmation: and behind their chant the
+20.36  vigilant angel of the church militant disarmed and menaced her heresiarchs. A
+20.37  horde of heresies fleeing with mitres awry: Photius and the brood of mockers
+21.01  of whom Mulligan was one, and Arius, warring his life long upon the
+21.02  consubstantiality of the Son with the Father, and Valentine, spurning Christ's
+21.03  terrene body, and the subtle African heresiarch Sabellius who held that the
+21.04  Father was Himself His own Son. Words Mulligan had spoken a moment
+21.05  since in mockery to the stranger. Idle mockery. The void awaits surely all
+21.06  them that weave the wind: a menace, a disarming and a worsting from those
+21.07  embattled angels of the church, Michael's host, who defend her ever in the
+21.08  hour of conflict with their lances and their shields.</p>
+21.09  <p>Hear, hear. Prolonged applause. <i>Zut! Nom de Dieu!</i></p>
+21.10  <p>--Of course I'm a Britisher, Haine's voice said, and I feel as one. I
+21.11  don't want to see my country fall into the hands of German jews either.
+21.12  That's our national problem, I'm afraid, just now.</p>
+21.13  <p>Two men stood at the verge of the cliff, watching: businessman,
+21.14  boatman.</p>
+21.15  <p>--She's making for Bullock harbour.</p>
+21.16  <p>The boatman nodded towards the north of the bay with some disdain.</p>
+21.17  <p>--There's five fathoms out there, he said. It'll be swept up that way
+21.18  when the tide comes in about one. It's nine days today.</p>
+21.19  <p>The man that was drowned. A sail veering about the blank bay waiting
+21.20  for a swollen bundle to bob up, roll over to the sun a puffy face, salt white.
+21.21  Here I am.</p>
+21.22  <p>They followed the winding path down to the creek. Buck Mulligan stood
+21.23  on a stone, in shirtsleeves, his unclipped tie rippling over his shoulder. A
+21.24  young man clinging to a spur of rock near him, moved slowly frogwise his
+21.25  green legs in the deep jelly of the water.</p>
+21.26  <p>--Is the brother with you, Malachi?</p>
+21.27  <p>--Down in Westmeath. With the Bannons.</p>
+21.28  <p>--Still there? I got a card from Bannon. Says he found a sweet young
+21.29  thing down there. Photo girl he calls her.</p>
+21.30  <p>--Shapshot, eh? Brief exposure.</p>
+21.31  <p>Buck Mulligan sat down to unlace his boots. An elderly man shot up
+21.32  near the spur of rock a blowing red face. He scrambled up by the stones,
+21.33  water glistening on his pate and on its garland of grey hair, water rilling over
+21.34  his chest and paunch and spilling jets out of his black sagging loincloth.</p>
+21.35  <p>Buck Mulligan made way for him to scramble past and, glancing at
+21.36  Haines and Stephen, crossed himself piously with his thumbnail at brow  and
+21.37  breastbone.</p>
+22.01  <p>--Seymour's back in town, the young man said, grasping again his
+22.02  spur of rock. Chucked medicine and going in for the army.</p>
+22.03  <p>--Ah, go to God, Buck Mulligan said.</p>
+22.04  <p>--Going over next week to stew. You know that red Carlisle girl,
+22.05  Lily?</p>
+22.06  <p>--Yes.</p>
+22.07  <p>--Spooning with him last night on the pier. The father is rotten with
+22.08  money.</p>
+22.09  <p>--Is she up the pole?</p>
+22.10  <p>--Better ask Seymour that.</p>
+22.11  <p>--Seymour a bleeding officer, Buck Mulligan said.</p>
+22.12  <p>He nodded to himself as he drew off his trousers and stood up, saying
+22.13  tritely:</p>
+22.14  <p>--Redheaded women buck like goats.</p>
+22.15  <p>He broke off in alarm, feeling his side under his flapping shirt.</p>
+22.16  <p>--My twelfth rib is gone, he cried. I'm the <i>Uebermensch.</i> Toothless
+22.17  Kinch and I, the supermen.</p>
+22.18  <p>He struggled out of his shirt and flung it behind him to where his
+22.19  clothes lay.</p>
+22.20  <p>--Are you going in here, Malachi?</p>
+22.21  <p>--Yes. Make room in the bed.</p>
+22.22  <p>The young man shoved himself backward through the water and reached
+22.23  the middle of the creek in two long clean strokes. Haines sat down on a stone,
+22.24  smoking.</p>
+22.25  <p>--Are you not coming in, Buck Mulligan asked.</p>
+22.26  <p>--Later on, Haines said. Not on my breakfast.</p>
+22.27  <p>Stephen turned away.</p>
+22.28  <p>--I'm going, Mulligan, he said.</p>
+22.29  <p>--Give us that key, Kinch, Buck Mulligan said, to keep my chemise
+22.30  flat.</p>
+22.31  <p>Stephen handed him the key. Buck Mulligan laid it across his heaped
+22.32  clothes.</p>
+22.33  <p>--And twopence, he said, for a pint. Throw it there.</p>
+22.34  <p>Stephen threw two pennies on the soft heap. Dressing, undressing. Buck
+22.35  Mulligan erect, with joined hands before him, said solemnly:</p>
+22.36  <p>--He who stealeth from the poor lendeth to the Lord. Thus spake
+22.37  Zarathustra.</p>
+23.01  <p>His plump body plunged.</p>
+23.02  <p>--We'll see you again, Haines said, turning as Stephen walked up the
+23.03  path and smiling at wild Irish.</p>
+23.04  <p>Horn of a bull, hoof of a horse, smile of a Saxon.</p>
+23.05  <p>--The Ship, Buck Mulligan cried. Half twelve.</p>
+23.06  <p>--Good, Stephen said.</p>
+23.07  <p>He walked along the upwardcurving path.</p>
+23.08  <p><i>Liliata rutilantium.</i></p>
+23.09  <p><i>Turma circumdet.</i></p>
+23.10  <p><i>Jubilantium te virginum.</i></p>
+23.11  <p>The priest's grey nimbus in a niche where he dressed discreetly. I will
+23.12  not sleep here tonight. Home also I cannot go.</p>
+23.13  <p>A voice, sweettoned and sustained, called to him from the sea. Turning
+23.14  the curve he waved his hand. It called again. A sleek brown head, a seal's, far
+23.15  out on the water, round.</p>
+23.16  <p>Usurper.</p>

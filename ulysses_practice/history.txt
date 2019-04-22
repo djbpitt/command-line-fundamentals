@@ -1,0 +1,81 @@
+    1  whereami
+    2  whoami
+    3  pwd
+    4  cd juice
+    5  git add
+    6  pwd
+    7  curl -L "https://dl.bintray.com/existdb/releases/<FILE_PATH>" -o <FILE.EXT>
+    8  curl -L "https://dl.bintray.com/existdb/releases/<FILE_PATH>" -o <FILE.EXT>
+    9  curl -L "https://dl.bintray.com/existdb/releases/<FILE_PATH>" -o <FILE.EXT>
+   10  vic
+   11  cd Desktop/vict_hoax/XML/TEI_xml/
+   12  ls
+   13  grep * "placeName=[a-b]"
+   14  grep "placeName = [a-z]" *
+   15  grep 'placeName = "[a-z]"' *
+   16  java -jar saxon/saxon9he.jar -s:TEI_xml/ -xsl:teiHeader.xsl -o:art-maps/
+   17  java -jar ./saxon/saxon9he.jar -s:TEI_xml/ -xsl:teiHeader.xsl -o:art-maps/
+   18  brew jquery
+   19  npm -v
+   20  npm -v
+   21  npm install jquery
+   22  npm install popper.js --save
+   23  cd Desktop/vict_hoax/
+   24  git add -A
+   25  git status
+   26  git commit -m "small typo fix and app dv"
+   27  git push
+   28  git push
+   29  cd Documents/portfolio/
+   30  git add -A
+   31  git commit -m "adding links and pictures"
+   32  git push
+   33  git add -A
+   34  git commit -m "bootstrap container-fluid"
+   35  git push
+   36  git add -A
+   37  git commit -m "adding row"
+   38  git push
+   39  git add -A
+   40  git commit -m "fixing links"
+   41  git push
+   42  git add -
+   43  git add -
+   44  git add -A
+   45  git commit -m 
+   46  git commit -m "fixing margins"
+   47  git push
+   48  cd Documents/portfolio/
+   49  git status
+   50  git add -
+   51  git add -A
+   52  git commit -m "from last week"
+   53  git push
+   54  git add -A
+   55  git commit -m "final fixes"
+   56  git push
+   57  git add -A
+   58  git commit -m "adding typewriter icon"
+   59  git push
+   60  /Users/gab_keane/Desktop/eXist-db.app/Contents/MacOS/eXist-JavaAppLauncher ; exit;
+   61  pwd
+   62  cd Desktop/command-line-fundamentals/
+   63  ls
+   64  git pull
+   65  git add -A
+   66  git commit -m "outline of topics to be covered"
+   67  git push
+   68  cd Downloads/1922\ Ulysses/
+   69  ls
+   70  wc -l u22_paglinnr/*
+   71  head u22_paglinnr/u01a_22telpl.txt
+   72  ls
+   73  cd u22_pagnr-paratags/
+   74  ls
+   75  grep -v ^[0-9]+$ u01a_22telpg.txt | wc -l
+   76  for file in *.txt ; do  grep -v ^[0-9]+$ $file | wc -l;  done
+   77  history
+   78  cd ..
+   79  cd ..
+   80  ls
+   81  history > history.txt
