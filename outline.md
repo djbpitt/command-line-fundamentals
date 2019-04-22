@@ -35,7 +35,7 @@
 	- Creating your GitHub account
 	- Setting up a repository and cloning?
 	- GitHub social
-	- Markdown
+	- Markdown and basic HTML
 
 1. Using Git (70 mins)
 	- What is Git?
