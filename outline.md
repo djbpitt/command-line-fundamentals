@@ -10,6 +10,7 @@
 1. Installation (40 mins)
 	- Install Git and Git bash
 	- Install BBEdit for Mac and Notepad ++ for Windows (include links)
+	- Install dos2unix
 	- Install sw carpentry
 
 1. Getting to know your OS (80 mins)
@@ -96,6 +97,7 @@
 	- for loops
 	- the environment and PATH variable
 	- finding commands and files
+	- aliasing and .bashrc
 	- `help`
 	- `which`
 	- `whereis`

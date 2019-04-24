@@ -1,0 +1,217 @@
+    1  whereami
+    2  whoami
+    3  pwd
+    4  cd juice
+    5  git add
+    6  pwd
+    7  curl -L "https://dl.bintray.com/existdb/releases/<FILE_PATH>" -o <FILE.EXT>
+    8  curl -L "https://dl.bintray.com/existdb/releases/<FILE_PATH>" -o <FILE.EXT>
+    9  curl -L "https://dl.bintray.com/existdb/releases/<FILE_PATH>" -o <FILE.EXT>
+   10  vic
+   11  cd Desktop/vict_hoax/XML/TEI_xml/
+   12  ls
+   13  grep * "placeName=[a-b]"
+   14  grep "placeName = [a-z]" *
+   15  grep 'placeName = "[a-z]"' *
+   16  java -jar saxon/saxon9he.jar -s:TEI_xml/ -xsl:teiHeader.xsl -o:art-maps/
+   17  java -jar ./saxon/saxon9he.jar -s:TEI_xml/ -xsl:teiHeader.xsl -o:art-maps/
+   18  brew jquery
+   19  npm -v
+   20  npm -v
+   21  npm install jquery
+   22  npm install popper.js --save
+   23  cd Desktop/vict_hoax/
+   24  git add -A
+   25  git status
+   26  git commit -m "small typo fix and app dv"
+   27  git push
+   28  git push
+   29  cd Documents/portfolio/
+   30  git add -A
+   31  git commit -m "adding links and pictures"
+   32  git push
+   33  git add -A
+   34  git commit -m "bootstrap container-fluid"
+   35  git push
+   36  git add -A
+   37  git commit -m "adding row"
+   38  git push
+   39  git add -A
+   40  git commit -m "fixing links"
+   41  git push
+   42  git add -
+   43  git add -
+   44  git add -A
+   45  git commit -m 
+   46  git commit -m "fixing margins"
+   47  git push
+   48  cd Documents/portfolio/
+   49  git status
+   50  git add -
+   51  git add -A
+   52  git commit -m "from last week"
+   53  git push
+   54  git add -A
+   55  git commit -m "final fixes"
+   56  git push
+   57  git add -A
+   58  git commit -m "adding typewriter icon"
+   59  git push
+   60  /Users/gab_keane/Desktop/eXist-db.app/Contents/MacOS/eXist-JavaAppLauncher ; exit;
+   61  pwd
+   62  cd Desktop/command-line-fundamentals/
+   63  ls
+   64  git pull
+   65  git add -A
+   66  git commit -m "outline of topics to be covered"
+   67  git push
+   68  cd Downloads/1922\ Ulysses/
+   69  ls
+   70  wc -l u22_paglinnr/*
+   71  head u22_paglinnr/u01a_22telpl.txt
+   72  ls
+   73  cd u22_pagnr-paratags/
+   74  ls
+   75  grep -v ^[0-9]+$ u01a_22telpg.txt | wc -l
+   76  for file in *.txt ; do  grep -v ^[0-9]+$ $file | wc -l;  done
+   77  history
+   78  cd ..
+   79  cd ..
+   80  ls
+   81  history > history.txt
+   82  less history.txt 
+   83  locale
+   84  cd Downloads/1922\ Ulysses/
+   85  ls
+   86  cd u22_paglinnr/
+   87  ls
+   88  less u01a_22telpl.txt 
+   89  cd ../u22_pagnr-paratags/
+   90  ls
+   91  less u01a_22telpg.txt 
+   92  less u01a_22telpg.txt 
+   93  less u01a_22telpg.txt 
+   94  less -N u01a_22telpg.txt 
+   95  cd u22_paglinnr/
+   96  cd ../u22_paglinnr/
+   97  cd ../u22_paglinnr/
+   98  ls
+   99  less -N u01a_22telpl.txt 
+  100  cd ..
+  101  ls
+  102  ls
+  103  wc -l u22_pagnr-noparatags/
+  104  wc -l u22_pagnr-noparatags/*
+  105  wc -l u22_pagnr-paratags/*
+  106  head u22_pagnr-paratags/u01a_22telpg.txt
+  107  history
+  108  history
+  109  cd Desktop/command-line-fundamentals/
+  110  git pull
+  111  git pull
+  112  cd data/
+  113  ls
+  114  cat enable1.txt
+  115  less enable1.txt
+  116  egrep "un.*able$" enable1.txt | wc -l
+  117  egrep "un.*able$" enable1.txt
+  118  egrep "^un.*able$" enable1.txt | wc -l
+  119  egrep --color "un.*able$" enable1.txt
+  120  egrep --color "un.*able$" enable1.txt
+  121  cd Desktop/command-line-fundamentals/
+  122  ls
+  123  cd data
+  124  ls
+  125  cd ulysses_practice/
+  126  ls
+  127  cd 1
+  128  cd 1922_Ulysses/
+  129  ls
+  130  mkdir u22_plain-text
+  131  ls
+  132  cd u22_pagnr-paratags/
+  133  egrep '<[^>]+>'
+  134  cd u22_pagnr-paratags/
+  135  ls
+  136  egrep '<[^>]+>' u01a_22telpg.txt 
+  137  egrep --color '<[^>]+>' u01a_22telpg.txt 
+  138  ls
+  139  cat u01a_22telpg.txt | sed 's/<[^>]+>//g'
+  140  cat u01a_22telpg.txt | sed -E 's/<[^>]+>//g'
+  141  cat u01a_22telpg.txt | sed -E 's/<[^>]+>//g'| egrep -v '^\d+$'
+  142  cat u01a_22telpg.txt | sed -E 's/<[^>]+>//g'| egrep -v '^\d+\n$'
+  143  ls
+  144  file u01a_22telpg.txt 
+  145  dos2unix *.txt
+  146  brew install dos2unix
+  147  dos2unix *.txt
+  148  file u01a_22telpg.txt 
+  149  history
+  150* for .txt | sed -E 's/<[^>]+>//g'| egrep -v '^\d+$'
+  151  cd ..
+  152  ls
+  153  for file in u22_pagnr-paratags/* ; do echo $file ; done
+  154  history
+  155  cd u22_pagnr-paratags/
+  156  for file in *; do sed -E 's/<[^>]+>//g' | egrep -v '\d+$' > ../u22_plain-text; ; done
+  157  for file in *; do sed -E 's/<[^>]+>//g' | egrep -v '\d+$' > ../u22_plain-text; done
+  158  for file in *; do sed -E 's/<[^>]+>//g' | egrep -v '\d+$' > ../u22_plain-text/* ; done
+  159  for file in *; do cat $file | sed -E 's/<[^>]+>//g' | egrep -v '\d+$' > ../u22_plain-text/* ; done
+  160  cd ..
+  161  ls
+  162  cd u22
+  163  cd u22_plain-text/
+  164  ls
+  165  for file in *; do cat $file | sed -E 's/<[^>]+>//g' | egrep -v '\d+$' > ../u22_plain-text/{doc%.txt} ; done
+  166  ls
+  167  cd ..
+  168  ls
+  169  cd u22_pagnr
+  170  cd u22_pagnr-
+  171  cd u22_pagnr-paratags/
+  172  ls
+  173  for file in *; do cat $file | sed -E 's/<[^>]+>//g' | egrep -v '\d+$' > ../u22_plain-text/${doc%.txt} ; done
+  174  ls
+  175  for file in *; do cat $file | sed -E 's/<[^>]+>//g' | egrep -v '\d+$' > /../u22_plain-text/${doc%.txt} ; done
+  176  for file in *; do cat $file | sed -E 's/<[^>]+>//g' | egrep -v '\d+$' > ../u22_plain-text/${doc%.txt} ; done
+  177  for file in *; do cat $file | sed -E 's/<[^>]+>//g' | egrep -v '\d+$'; > ../u22_plain-text/${doc%.txt} ; done
+  178  cd ..
+  179  ls
+  180  for file in *; do cat $file | sed -E 's/<[^>]+>//g' | egrep -v '\d+$'; > ../u22_plain-text/${file%.txt} ; done
+  181  cd u22_pagnr-paratags/
+  182  for file in *; do cat $file | sed -E 's/<[^>]+>//g' | egrep -v '\d+$'; > ../u22_plain-text/${file%.txt} ; done
+  183  cd ..
+  184  ls
+  185  cd u22_plain-text/
+  186  ls
+  187  less u01a_22telpg 
+  188  for file in *; do cat $file | sed -E 's/<[^>]+>//g' | egrep -v '\d+$'; > ../u22_plain-text/${file} ; done
+  189  for file in *; do cat $file | sed -E 's/<[^>]+>//g' | egrep -v '\d+$'; > ../u22_plain-text/${file%} ; done
+  190  cd ..
+  191  ls
+  192  cd u22pagnr-para
+  193  cd u22_pagnr-paratags/
+  194  for file in *; do cat $file | sed -E 's/<[^>]+>//g' | egrep -v '\d+$'; > ../u22_plain-text/${file} ; done
+  195  ls
+  196  cd ..
+  197  ls
+  198  cd u22_plain-text/
+  199  ls
+  200  ls u01a_22telpg.txt
+  201  less u01a_22telpg.txt
+  202  cd ../u22_pagnr_para
+  203  cd ..
+  204  ls
+  205  ls
+  206  history
+  207  for file in *; do cat $file | sed -E 's/<[^>]+>//g' | egrep -v '\d+$'; > ../u22_plain-text/${file} ; done
+  208  for file in u22_pagnr-paratags/*; do cat $file | sed -E 's/<[^>]+>//g' | egrep -v '\d+$'; > u22_plain-text/${file} ; done
+  209  pwd
+  210  cd u22_pagnr-paratags/
+  211  ls
+  212  for file in *; do cat $file | sed -E 's/<[^>]+>//g' | egrep -v '\d+$'; > ../u22_plain-text/${file} ; done
+  213  for file in *; do cat $file | sed -E 's/<[^>]+>//g' | egrep -v '\d+$'; >> ../u22_plain-text/${file} ; done
+  214  for file in *; do cat $file | sed -E 's/<[^>]+>//g' | egrep -v '\d+$'; > ../u22_plain-text/$file ; done
+  215  history
+  216  for file in *; do cat $file | sed -E 's/<[^>]+>//g' | egrep -v '\d+$' > ../u22_plain-text/$file ; done
+  217  history > ../sedhistory.txt
