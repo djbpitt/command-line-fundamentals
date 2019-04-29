@@ -4,39 +4,54 @@
 ### Tuesday
 #### Morning Session (2.5 hours - 10 min break)
 1. Introductions (20 mins)
-	- Background experiences? (Ask ahead of time)
 
+1. Software installation (40 mins)
+	- Git (MacOS) and [Git bash](https://www.techoism.com/how-to-install-git-bash-on-windows/) (Windows)
+	- [BBEdit](https://www.barebones.com/products/bbedit/) (MacOS) and [Notepad++](https://notepad-plus-plus.org/) (Windows)
+	- [Homebrew](https://brew.sh/) (MacOS)
+	- `brew install dos2unix` (MacOS)
+	- Clone our repository
 
-1. Installation (40 mins)
-	- Install Git and Git bash
-	- Install BBEdit for Mac and Notepad ++ for Windows (include links)
-	- Install dos2unix
-	- Install sw carpentry
+1. Getting to know your OS (40 mins)
 
-1. Getting to know your OS (80 mins)
-
-	- Hierarchical file system
-	- How is my file system organized?
-	- Introduce file system organization 
-	- file names
-	- file name extensions (and showing them on your GUI)
-	- Hidden files
+	- Introduce hierarchical file system organization
+		- Don’t put anything in *Documents/*
+		- Don’t put anything in *Desktop/*  
+	- File names 
+		- Letters (case), numbers, and `.-_` (**no spaces and no other punctuation**)
+		- “Final” should never appear in your file names [and here is why](https://a.disquscdn.com/uploads/mediaembed/images/1707/4842/original.jpg)
+		- File name extensions
+	- Show file name extensions and hidden files
+		- MacOS file extensions: Finder > Preferences > Advanced > “Show all file extensions”
+		- MacOS hidden files: `ctrl + shift + .`
+	- Windows: File Explorer > View > Select “Hidden items” and “File name extensions” 
 	- File permissions and ownership
 	- Danger zones
 	- Case sensitivity
+
+1. Activity: Clean up your mess (40 mins)
 
 #### Afternoon (3 hours - 15 min break)
 
 1. The shell (20 mins)
 	- What is the shell?
-	- Launching the shell
-	- beginning with navigating the file system
+		- GUI vs CLI
+		- Launching the shell (Terminal or Git bash)
+		- bash (REPL: read, eval, and print loop; run other programs)
+		- command prompt `$`
+		- type the command `ls -F` + Enter (returns to command prompt) 
+	- beginning to navigate the file system
+		- `pwd` 
+		- `cd` and `cd Desktop` 
 
-1. Git and GitHub (50 mins)
+1. Git and GitHub (50 mins) 
 	- Creating your GitHub account
-	- Setting up a repository and cloning?
+	- Setting up a repository and cloning
+		- `git clone ...` 
 	- GitHub social
+		- Issues, Projects, and Settings 
 	- Markdown and basic HTML
+		-  
 
 1. Using Git (70 mins)
 	- What is Git?
@@ -50,6 +65,7 @@
 	- `ls`
 	- `history`
 	- comparing GUI to shell
+	- keyboard shortcuts
 
 ### Wednesday
 #### Morning (3 hours - 15 min break)
@@ -65,12 +81,13 @@
 	- flavors?
 
 #### Afternoon (3 hours - 15 min break)
-1. More Regex (90 mins)
+1. More Regex (75 mins)
 	- `grep`
-1. Command line 2 (75 mins)
+1. Command line 2 (90 mins)
 	- `whoami`
 	- `clear`
 	- `history`
+	- recall and editing
 	- tab completion
 	- `cp`
 	- `mv`
@@ -91,6 +108,7 @@
 	- `tail`
 	- `sort`
 	- `uniq`
+	- keyboard shortcuts
 
 #### Afternoon (3 hours - 15 min break)
 1. Programs and files 2 (165 mins)
@@ -116,6 +134,14 @@
 #### Afternoon (1.5 hours - no break)
 - structured review
 - exam?
+
+## Admin information
+[External resources](resources.md)
+
+### Contact
+djbpitt at gmail.com
+
+gabakeane at gmail.com
 
 
 
