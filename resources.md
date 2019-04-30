@@ -11,6 +11,7 @@ Our teaching materials: <https://github.com/djbpitt/command-line-fundamentals>. 
 * Idan Kamara’s [explainshell.com](https://explainshell.com/): write down a command-line statement of any complexity to see the help text that matches each part
 * Software Carpentry’s [The Unix shell](http://swcarpentry.github.io/shell-novice/) (self-directed teaching materials)
 * Software Carpentry’s [The Unix shell: summary of basic commands](http://swcarpentry.github.io/shell-novice/reference/)
+* Lowell Heddings’s [Best keyboard shortcuts for bash](https://www.howtogeek.com/howto/ubuntu/keyboard-shortcuts-for-bash-command-shell-for-ubuntu-debian-suse-redhat-linux-etc/)
 
 ## Where is my shell?
 
