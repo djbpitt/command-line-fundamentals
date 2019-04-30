@@ -10,6 +10,7 @@
 	- [BBEdit](https://www.barebones.com/products/bbedit/) (MacOS) and [Notepad++](https://notepad-plus-plus.org/) (Windows)
 	- [Homebrew](https://brew.sh/) (MacOS)
 	- `brew install dos2unix` (MacOS)
+	- [MacDown](https://macdown.uranusjr.com) (MacOS) and [Ghostwriter](https://wereturtle.github.io/ghostwriter/) (Windows and Linux)
 	- Clone our repository
 
 1. Getting to know your OS (40 mins)
@@ -41,8 +42,8 @@
 		- command prompt `$`
 		- type the command `ls -F` + Enter (returns to command prompt) 
 	- beginning to navigate the file system
-		- `pwd` 
-		- `cd` and `cd Desktop` 
+		- print working directory: `pwd` 
+		- change directory: `cd` and `cd Desktop` 
 
 1. Git and GitHub (50 mins) 
 	- Creating your GitHub account
@@ -51,11 +52,12 @@
 	- GitHub social
 		- Issues, Projects, and Settings 
 	- Markdown and basic HTML
-		-  
+		-  Create a *README.md* page on your newly initialized repository
 
 1. Using Git (70 mins)
 	- What is Git?
-	- Using Git at the command line
+		- a version control program that tracks changes at the line level
+	- Using Git at the command line 
 	- The Git workflow
 
 1. The command line 1 (25 mins)
