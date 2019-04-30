@@ -126,17 +126,19 @@
 #### Morning (3 hours - 15 min break)
 1. Programs and files 1 (45 mins)
 	- `file`
+	- What are files? What are programs? What are directories?
+		- They're *all* files, that's why `file` works for everything
 	- Character sets and file formats
 		- ASCII vs. UTF-8
 			- *rendering errors can occur if you're using the wrong character set*
-		- Internationalization conversion: `iconv -l`
 		- Conversion in text editor
 			- Notepad++: “Encoding”
-			- BBEdit: Bottom status bar  
-	- What are files? What are programs? What are directories?
-		- They're *all* files, that's why `file` works for everything
+			- BBEdit: Bottom status bar
+		- Internationalization conversion: `iconv -l`
+		- Activity: Conversion on command line  
 	- Operating system conventions
 		- EOL/EOF
+		- `dos2unix`
 		- Back slashes and forward slashes (only for cmd.exe and Powershell)
 
 1. Regex (120 mins)
