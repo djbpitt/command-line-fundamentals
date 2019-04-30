@@ -12,6 +12,8 @@ Perhaps the greatest practical challenge in any hands-on workshop in the computa
 * [Command line resources](resources.md)
 * [Configuring Git](git-setup.md)
 
-____
+## License
 
-Original content in this repository are licensed under a CC BY-SA 4.0 license. Materials from [Software Carpentry](https://software-carpentry.org) are licensed as CC-BY 4.0. The *Ulysses* 1922 edition files from the [Modernist Versions Project](http://infiniteulysses.com/node/285) are licensed as CC BY-NC-SA 3.0. 
+* Original content: [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)
+* Materials from [Software Carpentry](https://software-carpentry.org): [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+* *Ulysses* 1922 edition files from the [Modernist Versions Project](http://infiniteulysses.com/node/285): [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
