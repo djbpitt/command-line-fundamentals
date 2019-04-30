@@ -7,7 +7,7 @@
 
 1. Software installation (40 mins)
 	- Git
-		- MacOS: type `git` in the terminal and accept installation)
+		- MacOS: type `git` in the terminal and accept installation
 		- Windows: [Git bash](https://www.techoism.com/how-to-install-git-bash-on-windows/)
 	- [BBEdit](https://www.barebones.com/products/bbedit/) (MacOS) and [Notepad++](https://notepad-plus-plus.org/) (Windows)
 	- [Homebrew](https://brew.sh/) (MacOS only)
@@ -25,10 +25,10 @@
 		- “Final” should never appear in your file names [and here is why](https://a.disquscdn.com/uploads/mediaembed/images/1707/4842/original.jpg)
 	- Show file name extensions and hidden files
 		- MacOS file extensions: Finder > Preferences > Advanced > “Show all file extensions”
-		- MacOS hidden files: `ctrl + shift + .`
+		- MacOS hidden files: `Ctrl + Shift + .`
 		- Windows: File Explorer > View > Select “Hidden items” and “File name extensions” 
 	- File permissions and ownership
-		- MacOS: Select file in finder, then Cmd-i (or right-click and “Get info”)
+		- MacOS: Select file in finder, then `Cmd + i` (or right-click and “Get info”)
 		- Windows: Select file in Explorer, right click and “Properties”)
 	- Danger zones: there is no `undelete`
 	- Case sensitive vs case-preserving
@@ -48,7 +48,8 @@
 		- Print working directory: `pwd` 
 		- Change directory: `cd` and `cd Desktop` 
 
-1. Git and GitHub configuration and introduction (50 mins) 
+1. Git and GitHub configuration and introduction (70 mins) 
+	- Git (version control) and GitHub (a cloud home for Git repos) 
 	- Create a free individual GitHub account (<https://github.com/pricing>)
 	- Initialize your local Git environment
 	
@@ -63,26 +64,42 @@
 	- GitHub social
 		- [Issues](https://help.github.com/en/articles/about-issues), [Projects](https://help.github.com/en/articles/about-project-boards), and Settings
 	- [Markdown](https://guides.github.com/features/mastering-markdown/)
-		- Genenal: blank line between block-line objects
-		- Paragraphs: separated by blank lines
-		- Headers: begin with 1–6 hashes followed by a space
-		- List items begin with asterisk or hyphen followed by a space (may be indented to nest)
-		- Italic: begin or end with one asterisk or hyphen
-		- Bold: begin and end with two asterisks or hyphens
-		- Code snippet: begin and end with backticks
-		- Code block: begin and end with three backticks on separate lines
-		- Also: images, blockquotes, link, tables, strike-through, checkbox lists
-	- Activity: create a *README.md* page on your newly initialized repository
+		- **General:** blank line between block-line objects
+		- **Paragraphs:** separated by blank lines
+		- **Headers:** begin with 1–6 hashes followed by a space
+		- **List items:** begin with asterisk or hyphen followed by a space (may be indented to nest)
+		- **Italic:** begin or end with one asterisk or hyphen
+		- **Bold:** begin and end with two asterisks or hyphens
+		- **Code snippet:** begin and end with backticks
+		- **Code block:** begin and end with three backticks on separate lines
+		- **Misc:** images, blockquotes, link, tables, strike-through, checkbox lists
+	- Activity: edit the *README.md* page in your local cloned repository (use Macdown on MacOS or Ghostwriter on Windows)
 
-1. Using Git (70 mins)
-	- What is Git?
-		- Version control program that tracks changes at the line level
+1. Using Git (50 mins)
+	- Git is a *version control program* that *tracks changes* at the *line level*
+		- Supports unlimited undo, collaboration, branching
+	- Git vs GitHub
+		- All editing is local (do not edit directly on GitHub), but pushed to GitHub
+		- Use GitHub directly only for Issues, Projects, Settings
 	- Using Git at the command line 
-	- [The Git workflow](gitworkflow.png)
-		- `add`, `commit`, `push`; `pull`; `status`
- - Merge conflicts
-	 - Avoid merge conflicts: `pull` and `push` often
-	 - [Fix merge conflicts](http://blog.wuwon.id.au/2010/09/painless-merge-conflict-resolution-in.html)
+	- [The Git workflow](gitworkflow.png): status; add, commit, push; pull
+		- Check status of local repo: `git status`
+		- Integrate local work into repo
+			- Steps
+				- `git add <filename>`
+				- `git rm <filename>` (not just `rm <filename>`)
+				- `git commit -m "this is my commit message"`
+				- `git push`
+		- Guidelines
+			- [Pull and push frequently](in_case_of_fire.png)
+			- Git adds *files*
+			- Git commits sets of line-level *changes* in multiple files, not files
+			- Empty directories cannot be committed (add a placeholder file if necessary)
+			- Commits should be granular and conherent (don’t use `git add .` or `git commit -a -m "message"` unless you know that your changes meet this requirement)
+		- Retrieve work from GitHub repo: `pull` (only in case of collaboration—which may be with yourself!)
+	- Git merge conflicts
+		 - Avoid merge conflicts: `git pull` and `git push` often
+		 - [Fix merge conflicts](http://blog.wuwon.id.au/2010/09/painless-merge-conflict-resolution-in.html)
 
 1. The command line 1 (25 mins)
 	- `cd`
