@@ -108,30 +108,47 @@
 		- Check the results on GitHub
 
 1. The command line 1 (25 mins)
-	- `cd`
-	- `pwd`
-	- `man` and Git Bash manuals online
-	- `ls`
-	- `history`
-	- comparing GUI to shell
-	- keyboard shortcuts
+	- Change directory: `cd`
+	- Print working directory:`pwd`
+	- Manual: `man` and Git Bash [online manual](https://ss64.com/bash)
+	- List: `ls`
+	- Keyboard shortcuts
+		- Move to beginning of line: `Ctrl + a`
+		- Move to end of line: `Ctrl + e`
+		- Cut from beginning of line to cursor: `Ctrl + u`
+		- Cut from cursor to end of line: `Ctrl + k`
+		- Paste from clipboard: `Ctrl + y`
+		- Back one word: `Esc` then `b`
+		- Forward one word: `Esc` then `f`
+		- Clear the screen: `Ctrl + l`
 
 ### Wednesday
 #### Morning (3 hours - 15 min break)
 1. Programs and files 1 (45 mins)
 	- `file`
-	- character sets and file formats
+	- Character sets and file formats
+		- ASCII vs. UTF-8
+			- *rendering errors can occur if you're using the wrong character set*
+		- Internationalization conversion: `iconv -l`
+		- Conversion in text editor
+			- Notepad++: “Encoding”
+			- BBEdit: Bottom status bar  
 	- What are files? What are programs? What are directories?
-	- operating system conventions and EOL/EOF
+		- They're *all* files, that's why `file` works for everything
+	- Operating system conventions
+		- EOL/EOF
+		- Back slashes and forward slashes (only for cmd.exe and Powershell)
 
 1. Regex (120 mins)
+	- Flavors
+		- `egrep`	 
 	- syntax of regex expressions
 	- practicing in an online tool
-	- flavors?
+	
 
 #### Afternoon (3 hours - 15 min break)
 1. More Regex (75 mins)
-	- `grep`
+	- `grep` and `egrep`
 1. Command line 2 (90 mins)
 	- `whoami`
 	- `clear`
