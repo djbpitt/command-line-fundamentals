@@ -63,16 +63,26 @@
 	- GitHub social
 		- [Issues](https://help.github.com/en/articles/about-issues), [Projects](https://help.github.com/en/articles/about-project-boards), and Settings
 	- [Markdown](https://guides.github.com/features/mastering-markdown/)
+		- Genenal: blank line between block-line objects
 		- Paragraphs: separated by blank lines
 		- Headers: begin with 1–6 hashes followed by a space
 		- List items begin with asterisk or hyphen followed by a space (may be indented to nest)
+		- Italic: begin or end with one asterisk or hyphen
+		- Bold: begin and end with two asterisks or hyphens
+		- Code snippet: begin and end with backticks
+		- Code block: begin and end with three backticks on separate lines
+		- Also: images, blockquotes, link, tables, strike-through, checkbox lists
 	- Activity: create a *README.md* page on your newly initialized repository
 
 1. Using Git (70 mins)
 	- What is Git?
-		- a version control program that tracks changes at the line level
+		- Version control program that tracks changes at the line level
 	- Using Git at the command line 
-	- The Git workflow
+	- [The Git workflow](gitworkflow.png)
+		- `add`, `commit`, `push`; `pull`; `status`
+ - Merge conflicts
+	 - Avoid merge conflicts: `pull` and `push` often
+	 - [Fix merge conflicts](http://blog.wuwon.id.au/2010/09/painless-merge-conflict-resolution-in.html)
 
 1. The command line 1 (25 mins)
 	- `cd`
