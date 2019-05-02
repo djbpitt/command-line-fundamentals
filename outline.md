@@ -144,25 +144,45 @@
 1. Regex (120 mins)
 	- Flavors
 		- `egrep --color`	 
+		- what are the differences among `grep`, `egrep`, and `pcregrep`? 
 	- Syntax of [regular expressions](https://pittsburgh-neh-institute.github.io/Institute-Materials-2017/schedule/week_1/regex_1.html)
 	- Activity: *data/enable1.txt*
 
 #### Afternoon (3 hours - 15 min break)
 
 1. More Regex (75 mins)
-	- `grep` and `egrep`
+	- Activity: *data/shakespeare-sonnets.txt*
 1. Command line 2 (90 mins)
 	- `whoami`
 	- `clear`
 	- `history`
-	- recall and editing
+		- recall and editing
+		- `!!`: runs last command
+		- `!number`: runs command of certain number
+		- `!starting_character`: runs last command starting with a certain character
+			- example: `!ca` will run the last instance of `cat` with its switches and inputs
+		- `!$`: calls last word of last command
+		- `ctrl + r`: searches history
 	- tab completion
-	- `cp`
-	- `mv`
-	- `rm`
-	- `less`
-	- `mkdir`
-	- `rmdir`
+		- watch out for case sensitivity!
+	- copy: `cp`
+	- move AND rename: `mv`
+	- remove: `rm`
+		- DANGER ZONE! Remove recursively without prompting: `rm -rf` 
+	- echo a string: `echo`
+	- print whole file to screen: `cat`
+	- print whole file (with paging):`less`
+		- Activity: using `less` with *data/shakespeare-sonnets.txt* 
+		- `-N`: toggles line numbering
+		- `/`: search forwards (can be used with regex)
+		- `?`: search backwards
+		- `n` is next match, `N` is preceding match 
+		- `20g`: go to line 20
+		- `G`: go to last line
+		- `q`: exit
+	- make directory: `mkdir`
+	- remove empty directory: `rmdir`
+		- use `rm -rf` to recursively remove all files in a directory and the directory itself
 	
 ### Thursday
 #### Morning (3 hours - 15 min break)
