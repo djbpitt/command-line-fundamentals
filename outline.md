@@ -146,18 +146,9 @@
 		- `egrep --color`	 
 	- Syntax of [regular expressions](https://pittsburgh-neh-institute.github.io/Institute-Materials-2017/schedule/week_1/regex_1.html)
 	- Activity: *data/enable1.txt*
-		- words that contain “fruit”
-		- words that contain ‘q’ not followed by ‘u’
-		- words that begin with ‘q’ not followed by ‘u’
-		- words ending with a certain letter (negative lookahead)
-		- reduplicated words
-		- words that begin with seven consonants
-		- all words with three ‘z’s using a variable
-		- palindromes (specific sizes)
-		- ‘un’, ‘less’, and ‘un[a-z].less’
-		- words with five consecutive vowels
-		- words that contain no vowels 	
+
 #### Afternoon (3 hours - 15 min break)
+
 1. More Regex (75 mins)
 	- `grep` and `egrep`
 1. Command line 2 (90 mins)
