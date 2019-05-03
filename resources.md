@@ -34,3 +34,6 @@ Packages managers simplify the installation and ... er ... management of softwar
 * MacOS: [Homebrew](https://brew.sh/)
 * Windows: [Chocolatey](https://chocolatey.org/)
 
+## Miscellaneous
+
+* [ag](https://github.com/ggreer/the_silver_searcher) (`grep` alternative; see also <https://blog.dnsimple.com/2017/07/ag-a-better-unix-search-tool/>)
