@@ -194,16 +194,37 @@
 ### Thursday
 #### Morning (3 hours - 15 min break)
 1. Command line 2 continued (165 mins)
-	- comparing wildcards/file name globbing with regex
-	- redirection
-	- filters (piping)
-	- `cat`
-	- `wc`
-	- `head`
-	- `tail`
-	- `sort`
-	- `uniq`
-	- keyboard shortcuts
+	- File name globbing
+		- `*` and `?` 
+	- Basic redirection
+		- `>`, `<`, `>>`
+	- Filters and piping
+		- `|`
+	- More commands
+		- Commands you know: `ls`, `grep`, `less`, `echo`, `cat`, `history`
+		- New commands
+			- Word/line/character/byte count: `wc` 
+				- number of bytes: `-c`
+				- number of words: `-w`
+				- number of lines: `-l`
+				- number of characters: `-m`
+			- Top of list: `head` 
+				- number of items: `-2`
+			- Bottom of list: `tail` 
+				- number of items: `-2`
+			- Sorting: `sort` 
+				- numerical: `-n`
+				- case insensitive: `-f`
+				- ignore leading blanks: `-b` 
+				- reverse order: `-r`
+			- `uniq`
+				- count: `-c`
+				- case insensitive: `-i`
+			- stream editor: `sed`
+				- extended regular expressions: `-E`
+				- command: `-e 's/x/X/g'`
+				- in place: `-i .bak`
+	- Activity: replacing all the vowels in Shakespeare’s sonnets?
 
 #### Afternoon (3 hours - 15 min break)
 1. Programs and files 2 (165 mins)
