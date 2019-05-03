@@ -50,3 +50,4 @@
 - `-i`: case insensitive
 - `-o`: print only matching string
 - `-m number`: print only a certain number of results
+- `-w`: match only whole words

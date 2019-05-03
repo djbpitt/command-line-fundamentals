@@ -6,12 +6,14 @@
 1. Introductions (20 mins)
 
 1. Software installation (40 mins)
+	- If you don't have it already, please install Google Chrome
 	- Git
 		- MacOS: type `git` in the terminal and accept installation
 		- Windows: [Git bash](https://www.techoism.com/how-to-install-git-bash-on-windows/)
 	- [BBEdit](https://www.barebones.com/products/bbedit/) (MacOS) and [Notepad++](https://notepad-plus-plus.org/) (Windows)
 	- [Homebrew](https://brew.sh/) (MacOS only)
-		- Then: `brew install dos2unix`
+	- [Chocolatey](https://chocolatey.org/) (Windows only)
+		- Open Powershell as administrator (right click the Start button) to run 
 	- [MacDown](https://macdown.uranusjr.com) (MacOS) and [Ghostwriter](https://wereturtle.github.io/ghostwriter/) (Windows)
 	- Clone our repository in *Desktop/*
 
@@ -138,7 +140,7 @@
 		- Activity: Conversion on command line in *data/character-sets/*
 	- Operating system conventions
 		- EOL/EOF
-		- Activity: `dos2unix` and `xxd` in *data/eol/*
+		- Activity: `dos2unix`, `od -c`, and`xxd` in *data/eol/*
 		- Back slashes and forward slashes (only for cmd.exe and Powershell)
 
 1. Regex (120 mins)
@@ -229,6 +231,7 @@
 #### Afternoon (3 hours - 15 min break)
 1. `for` loops (90 mins)
 	- Variables
+		- list environment variables: `env`
 		- `echo $PATH`
 	- `for` loops
 		- Iterates over a list of items and does something for each item
@@ -242,33 +245,59 @@
 		- Find all sonnets that do not have 14 lines
 			- `wc -l sonnet* | grep -v '^ *15'`
 		- With a for loop
-			- `for file in *; do ; done` 
-			
-			
-			
-			
+			- `for file in *; do ; done` 		
 1. Programs and files 2 (75 mins)
-	- the environment and PATH variable
-	- finding commands and files
-	- aliasing and .bashrc
-	- `help`
-	- `which`
-	- `whereis`
-	- `find`
-	- `type`
-	- `diff` and `wdiff`
+	- The environment and PATH variable
+		- directories with executable programs that can be run from the command line (example: `cat` is a program that is available in your $PATH)
+	- Setting a variable
+		- `export name='command'` (at command line or in *~/.bashrc*)
+	- Aliasing and *.bashrc*
+		- `source ~/.bashrc`
+		- temporary aliases: `alias ll="ls -l"`
+		- permanent aliases: *~/.bashrc*
+	- Navigating your file system and programs (now that you know what you're doing)
+		- `tree` (use `brew install tree` for MacOS) or `tree.com //f` on Windows 
+		- `help`
+		- `man`, `info`, and `apropos`
+		- `which` and `type`
+			- run `man which`
+			- run `which man` 
+		- `whereis`
+			- if you've ever used Python, this is a command you need 
+		- using `find`
+			- `find . -name shakespeare-sonnets.txt -print`
+	- Compression and archiving
+		- `zip` (`zip -r archivename *.txt`) and `unzip` (`-t` is test, `-l` is list) 
+		- `gzip` and `gunzip` 
+		- `tar` (`tar -xvf filename.tar`); `unrar`
+	- Activity: compress your new sonnet files 
+		- make a new archive
+		- list and test your new archive
+		- copy it to a new directory (make one!) and unzip it there 
 
 ### Friday 
 #### Morning (3 hours - 15 min break)
 ##### Web technologies
-- HTML/CSS
-- JavaScript
-- PanDoc
+1. HTML/CSS
+	- Hypertext Markup Language (HTML) is a controlled XML vocabulary (meaning it has angle brackets and a strict schema) that is used to hold and organize content for the web
+	- Cascading Style Sheets (CSS) is a styling language for HTML. One can specify colors, fonts, spacing, etc using CSS
+	- JavaScript is a client-side programming language that allows for interaction and dynamic content totally produced within the user's browser, rather than on the server.
+
+1. Activity: Using Developer tools in Chrome's “Inspect”	
+1. Installing and using PanDoc
+	- `brew install pandoc`
+	- `choco install pandoc`
+	- Activity: convert `outline.md` to HTML
 - How the Internet works
+	- `curl` is a filter that outputs to stdout (this means you can pipeline it) and `wget` (creates something, is recursive)
+		- `wget http://dh.obdurodon.org/bartleby.txt`
+		- `curl -s http://dh.obdurodon.org/bartleby.txt | wc`  
 
 #### Afternoon (1.5 hours - no break)
-- structured review
-- exam?
+##### Structured review
+- Activity: Preparing *Ulysses* as plain text
+	1. change directories into *data/ulysses_practice*
+	2. `ls` around and see what's up!
 
 ## Admin information
 
