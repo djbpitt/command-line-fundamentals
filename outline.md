@@ -227,8 +227,27 @@
 	- Activity: replacing all the vowels in Shakespeare’s sonnets?
 
 #### Afternoon (3 hours - 15 min break)
-1. Programs and files 2 (165 mins)
-	- for loops
+1. `for` loops (90 mins)
+	- Variables
+		- `echo $PATH`
+	- `for` loops
+		- Iterates over a list of items and does something for each item
+			- `for` chooses the list, `do` provides the command(s); `done` executes the commands 
+		- `for file in *; do echo "this file is $file"; done`
+	- Activity: writing `for` loops for Shakespeare's sonnets
+		- `split` doesn't work because of Sonnet 99 (extra line) and Sonnet 126 (missing two lines)
+		- `csplit` works with regex if we match on blank lines
+			- Using `dos2unix` for Windows before using a unix command operating on blank lines
+			- Matching lines that contain only one character (without `dos2unix`) will also work here
+		- Find all sonnets that do not have 14 lines
+			- `wc -l sonnet* | grep -v '^ *15'`
+		- With a for loop
+			- `for file in *; do ; done` 
+			
+			
+			
+			
+1. Programs and files 2 (75 mins)
 	- the environment and PATH variable
 	- finding commands and files
 	- aliasing and .bashrc
