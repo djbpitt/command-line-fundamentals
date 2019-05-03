@@ -22,8 +22,8 @@ Our teaching materials: <https://github.com/djbpitt/command-line-fundamentals>. 
 
 You may use any plain-text editor with which you are comfortable, but not a Word processor. We recommend:
 
-* MacOS (GUI): [BBEdit](https://www.barebones.com/products/bbedit/)
-* Windows (GUI): [Notepad++](https://notepad-plus-plus.org/)
+* MacOS (GUI): [BBEdit](https://www.barebones.com/products/bbedit/) (then run: BBEdit → Install command line tools ...)
+* Windows (GUI): [Notepad++](https://notepad-plus-plus.org/) (then add `alias npp='/c/Program\ Files/Notepad++/notepad++.exe'` to *.bashrc* and run `source ~/.bashrc`)
 * MacOS and Windows (CLI): Nano (bundled with MacOS and Windows Git Bash)
 
 
@@ -37,3 +37,4 @@ Packages managers simplify the installation and ... er ... management of softwar
 ## Miscellaneous
 
 * [ag](https://github.com/ggreer/the_silver_searcher) (`grep` alternative; see also <https://blog.dnsimple.com/2017/07/ag-a-better-unix-search-tool/>)
+* [`type`, `which`, amnd `whereis``](https://launchacademy.com/codecabulary/development-tools/type-which-and-whereis)
