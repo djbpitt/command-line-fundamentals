@@ -1,8 +1,7 @@
 # Course Outline
-## Order of topics covered
 
-### Tuesday
-#### Morning (2.5 hours - 10 min break)
+## Tuesday
+### Morning (2.5 hours - 10 min break)
 1. Introductions (20 mins)
 
 1. Software installation (40 mins)
@@ -36,7 +35,7 @@
 	- Case sensitive vs case-preserving
 1. Activity: Clean up your mess (40 mins)
 
-#### Afternoon (3 hours - 15 min break)
+### Afternoon (3 hours - 15 min break)
 
 1. The shell (20 mins)
 	- What is the shell?
@@ -124,8 +123,8 @@
 		- Forward one word: `Esc` then `f`
 		- Clear the screen: `Ctrl + l`
 
-### Wednesday
-#### Morning (3 hours - 15 min break)
+## Wednesday
+### Morning (3 hours - 15 min break)
 1. Programs and files 1 (45 mins)
 	- `file`
 	- What are files? What are programs? What are directories?
@@ -157,7 +156,7 @@
 	- Syntax of [regular expressions](https://pittsburgh-neh-institute.github.io/Institute-Materials-2017/schedule/week_1/regex_1.html)
 	- Activity: *data/enable1.txt*
 
-#### Afternoon (3 hours - 15 min break)
+### Afternoon (3 hours - 15 min break)
 
 1. More Regex (75 mins)
 	- Activity: *data/shakespeare-sonnets.txt*
@@ -193,8 +192,10 @@
 	- remove empty directory: `rmdir`
 		- use `rm -rf` to recursively remove all files in a directory and the directory itself
 	
-### Thursday
-#### Morning (3 hours - 15 min break)
+## Thursday
+
+### Morning (3 hours - 15 min break)
+
 1. Command line 2 continued (165 mins)
 	- File name globbing
 		- `*` and `?` 
@@ -228,7 +229,8 @@
 				- in place: `-i .bak`
 	- Activity: replacing all the vowels in Shakespeare’s sonnets?
 
-#### Afternoon (3 hours - 15 min break)
+### Afternoon (3 hours - 15 min break)
+
 1. `for` loops (90 mins)
 	- Variables
 		- list environment variables: `env`
@@ -285,38 +287,46 @@
 		- list and test your new archive
 		- copy it to a new directory (make one!) and unzip it there 
 
-### Friday 
-#### Morning (3 hours - 15 min break)
-##### Web technologies
+## Friday 
+
+### Morning (3 hours - 15 min break)
+
+#### Web technologies
+
 1. HTML/CSS
+
 	- Hypertext Markup Language (HTML) is a controlled XML vocabulary (meaning it has angle brackets and a strict schema) that is used to hold and organize content for the web
 	- Cascading Style Sheets (CSS) is a styling language for HTML. One can specify colors, fonts, spacing, etc using CSS
 	- JavaScript is a client-side programming language that allows for interaction and dynamic content totally produced within the user's browser, rather than on the server.
 
 1. Activity: Using Developer tools in Chrome's “Inspect”	
 1. Installing and using PanDoc
+
 	- `brew install pandoc`
 	- `choco install pandoc`
 	- Activity: convert `outline.md` to HTML
-- How the Internet works
+
+1. Downloading files from the command line
 	- `curl` is a filter that outputs to stdout (this means you can pipeline it) and `wget` (creates something, is recursive)
 		- `wget http://dh.obdurodon.org/bartleby.txt`
 		- `curl -s http://dh.obdurodon.org/bartleby.txt | wc`  
 
-#### Afternoon (1.5 hours - no break)
-##### Structured review
+### Afternoon (1.5 hours - no break)
+
+#### Structured review
+
 - Activity: Preparing *Ulysses* as plain text
 	1. change directories into *data/ulysses_practice*
 	2. `ls` around and see what's up!
 
-## Admin information
+____
 
-[External resources](resources.md)
+## Miscellaneous information
 
-### Contact
-
-* djbpitt at gmail.com
-* gabakeane at gmail.com
+* Links to [external resources](resources.md)
+* Contact your instructors
+	* David: djbpitt at gmail.com
+	* Gabi: gabakeane at gmail.com
 
 
 
