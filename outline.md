@@ -237,6 +237,9 @@
 		- Iterates over a list of items and does something for each item
 			- `for` chooses the list, `do` provides the command(s); `done` executes the commands 
 		- `for file in *; do echo "this file is $file"; done`
+	- Activity: copy a set of files to add or change a filename extension
+		- Add an extension: *filename.txt* → *filename.txt.bak*
+		- Change an extension *filename.txt* → *filename.bak*
 	- Activity: writing `for` loops for Shakespeare's sonnets
 		- `split` doesn't work because of Sonnet 99 (extra line) and Sonnet 126 (missing two lines)
 		- `csplit` works with regex if we match on blank lines
