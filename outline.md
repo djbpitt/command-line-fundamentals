@@ -240,6 +240,13 @@
 	- Activity: copy a set of files to add or change a filename extension
 		- Add an extension: *filename.txt* → *filename.txt.bak*
 		- Change an extension *filename.txt* → *filename.bak*
+	- Command-line parameters and substring surgery
+		- `${stuff}` is the same as `$stuff`, except that you can operate on the text inside the curly braces
+		- `${stuff/x/y}`: replace the first “x” (string, not regex) with “y” in the value of `$stuff`
+			- `$stuff//x/y` to replace *all* instances of “x”		- `${stuff#*x}` and `${stuff##*x}`: remove the shortest / longest string “x” from the beginning of the `$stuff` variable (`*` is a glob, not a regex indicator)
+			- `declare x=`pwd`; echo ${x##*/}`
+		- `${stuff%x*}` and `${stuff%%x*}`: remove the shortest / longest string "x" from end of the `$stuff` variable
+			- Remove filename extension: `declare x="stuff.txt"; echo ${x%.*}`
 	- Activity: writing `for` loops for Shakespeare's sonnets
 		- `split` doesn't work because of Sonnet 99 (extra line) and Sonnet 126 (missing two lines)
 		- `csplit` works with regex if we match on blank lines
