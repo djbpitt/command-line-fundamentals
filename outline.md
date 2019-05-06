@@ -126,6 +126,8 @@
 		- Back one word: `Esc` then `b`
 		- Forward one word: `Esc` then `f`
 		- Clear the screen: `Ctrl + l`
+		- MacOS only: Option + click into command line to move command-line cursor
+
 
 ## Wednesday
 ### Morning (3 hours - 15 min break)
@@ -135,7 +137,6 @@
 		- They're *all* files, that's why `file` works for everything
 	- Character sets and file formats
 		- ASCII vs. UTF-8
-			- *rendering errors can occur if you're using the wrong character set*
 		- Conversion in text editor
 			- Notepad++: “Encoding”
 			- BBEdit: Bottom status bar
@@ -144,44 +145,50 @@
 	- Operating system conventions
 		- EOL/EOF
 		- Activity: `dos2unix`, `od -c`, and`xxd` in *data/eol/*
-		- Back slashes and forward slashes (only for cmd.exe and Powershell)
+			- MacOS: first run `brew install dos2unix`
+		- Back slashes and forward slashes (only for *cmd.exe* and *Powershell*)
 
 1. Regex (120 mins)
-	- Flavors of grep (global regular expression print)
-		- plain ol’ grep: `grep` (don’t use)
-		- extended grep
-			- use by default)
+	- Flavors of `grep` (global regular expression print)
+		- Plain ol’ grep: `grep` (don’t use)
+		- Extended grep
+			- Use by default
 			- `egrep --color`, `grep -E --color`
-			- metacharacters `{`, `}`, `(`, `)`, `|`, `+`, `?` have special meaning by default)
-		- perl-compatible regex
-			- use when necessary
-			- `pcregrep --color` (MacOS; install first with `brew install pcre`) or `grep -P --color` (Git bash)
-			- supports egrep plus lookahead, lookbehind, Unicode character classes, and more (details at <https://www.systutorials.com/docs/linux/man/3-pcrepattern/>)
+			- Metacharacters `.`, `?`, `+`, `*`, `{`, `}`, `(`, `)`, `[`, `]`, `\`, `|`  have special meaning by default
+		- Perl-compatible regex
+			- Use when necessary
+			- `pcregrep --color` or `grep -P --color` (Git bash)
+				- MacOS; install first with `brew install pcre`
+			- Supports `egrep` plus lookahead, lookbehind, Unicode character classes, and more (details at <https://www.systutorials.com/docs/linux/man/3-pcrepattern/>)
 	- Syntax of [regular expressions](https://pittsburgh-neh-institute.github.io/Institute-Materials-2017/schedule/week_1/regex_1.html)
 	- Activity: *data/enable1.txt*
 
 ### Afternoon (3 hours - 15 min break)
 
-1. More Regex (75 mins)
+1. More regex (75 mins)
 	- Activity: *data/shakespeare-sonnets.txt*
 1. Command line 2 (90 mins)
 	- `whoami`
-	- `clear`
+	- `clear` (`ctrl + l`)
 	- `history`
-		- recall and editing
+		- Recall and editing
 		- `!!`: runs last command
-		- `!number`: runs command of certain number
+		- `!number`: runs command by number
 		- `!starting_character`: runs last command starting with a certain character
-			- example: `!ca` will run the last instance of `cat` with its switches and inputs
-		- `!$`: calls last word of last command
+			- `!ca` will run the last instance of `cat` (probably) with its switches and inputs
+		- `!$`: recalls last word of last command
 		- `ctrl + r`: searches history
-	- tab completion
-		- watch out for case sensitivity!
-	- copy: `cp`
-	- move AND rename: `mv`
-	- remove: `rm`
-		- DANGER ZONE! Remove recursively without prompting: `rm -rf` 
-	- echo a string: `echo`
+	- Tab completion
+		- Watch out for case sensitivity!
+	- Copy: `cp` (`cp -r` to copy a directory recursively)
+	- Rename: `mv`
+	- Move: `mv`
+	- Remove: `rm`
+		- **Danger zone!** Remove recursively without prompting: `rm -rf` 
+	- Echo a string: `echo`
+		- `echo 'Hi, Mom!'
+		- `echo '$path'`
+		- `echo "$path"`
 	- print whole file to screen: `cat`
 	- print whole file (with paging):`less`
 		- Activity: using `less` with *data/shakespeare-sonnets.txt* 

@@ -1,43 +1,43 @@
 # *enable1.txt* regex activities
 
-## beginner tasks
+## Beginner tasks
 
-- does this list contain hyphens or apostrophes?
-- does this list contain one-letter words?
-- words that contain “fruit”
-- words that begin with “x”
-- words that end with “x”
-- words that begin and end with “x”
-- words that contain two consecutive “k”s
-- words following the ‘un-’, ‘-less’, and ‘un...less’ patterns
-- words that begin with “x” or “q”
-- words that begin with “ex” or “eq”
-- words of a certain length 
+- Does this list contain hyphens or apostrophes?
+- Does this list contain one-letter words?
+- Words that contain “fruit”
+- Words that begin with “x”
+- Words that end with “x”
+- Words that begin and end with “x”
+- Words that contain two consecutive “k”s
+- Words following the ‘un-’, ‘-less’, and ‘un...less’ patterns
+- Words that begin with “x” or “q”
+- Words that begin with “ex” or “eq”
+- Words of a certain length 
 
-## slightly more complicated tasks
-- words that begin and end with the same letter
-- words that begin and end with the same vowel
-- words that begin/contain/end with two consecutive same letters
-- words that begin with ‘un’ or ‘non’
-- words that begin with two consecutive same letters and end with two consecutive same letters 
-- words that contain only letters from the first half of the alphabet
-- words that contain ‘q’ not followed by ‘u’
-- words that begin with ‘q’ not followed by ‘u’ 
+## Slightly more complicated tasks
+- Words that begin and end with the same letter
+- Words that begin and end with the same vowel
+- Words that begin/contain/end with two consecutive same letters
+- Words that begin with ‘un’ or ‘non’
+- Words that begin with two consecutive same letters and end with two consecutive same letters 
+- Words that contain only letters from the first half of the alphabet
+- Words that contain ‘q’ not followed by ‘u’
+- Words that begin with ‘q’ not followed by ‘u’ 
 	- `pcregrep --color 'q(?!u)' enable1.txt`
-- words that don't contain an ‘e’
-- words that contain no vowels
-- words with five consecutive vowels
-- reduplicated words
-- words that begin with seven consonants
-- all words with three ‘z’s (then try using a variable)
-- palindromes (specific sizes)
-- words of a certain minimum length
-- words of a certain maximum length
-- words between certain lengths
+- Words that don't contain an ‘e’
+- Words that contain no vowels
+- Words with five consecutive vowels
+- Reduplicated words
+- Words that begin with seven consonants
+- All words with three ‘z’s (then try using a variable)
+- Palindromes (specific sizes)
+- Words of a certain minimum length
+- Words of a certain maximum length
+- Words between certain lengths
 
-## tasks that require pipes “|”
-- words that contain all five vowels
-- words with two or more vowels in a row AND more than five letters
+## Tasks that require pipes (`|`)
+- Words that contain all five vowels
+- Words with two or more vowels in a row AND more than five letters
 
 
 ## `egrep`switches
