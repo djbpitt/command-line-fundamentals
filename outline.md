@@ -187,21 +187,22 @@
 		- **Danger zone!** Remove recursively without prompting: `rm -rf` 
 	- Echo a string: `echo`
 		- `echo 'Hi, Mom!'
-		- `echo '$path'`
-		- `echo "$path"`
-	- print whole file to screen: `cat`
-	- print whole file (with paging):`less`
+		- `echo '$PATH'`
+		- `echo "$PATH"`
+		- `echo $path` vs `echo $PATH`
+	- Print whole file to screen: `cat`
+	- Print whole file (with paging):`less`
 		- Activity: using `less` with *data/shakespeare-sonnets.txt* 
+		- `q`: exit
 		- `-N`: toggles line numbering
 		- `/`: search forwards (can be used with regex)
 		- `?`: search backwards
 		- `n` is next match, `N` is preceding match 
 		- `20g`: go to line 20
 		- `G`: go to last line
-		- `q`: exit
-	- make directory: `mkdir`
-	- remove empty directory: `rmdir`
-		- use `rm -rf` to recursively remove all files in a directory and the directory itself
+	- Make directory: `mkdir`
+	- Remove empty directory: `rmdir` 
+		- Danger Zone: use `rm -rf` to recursively remove all files in a directory and the directory itself
 	
 ## Thursday
 
@@ -218,26 +219,32 @@
 		- Commands you know: `ls`, `grep`, `less`, `echo`, `cat`, `history`
 		- New commands
 			- Word/line/character/byte count: `wc` 
-				- number of bytes: `-c`
-				- number of words: `-w`
-				- number of lines: `-l`
-				- number of characters: `-m`
+				- Number of bytes: `-c`
+				- Number of words: `-w`
+				- Number of lines: `-l`
+				- Number of characters: `-m`
 			- Top of list: `head` 
-				- number of items: `-2`
+				- Number of items: `-2`
 			- Bottom of list: `tail` 
-				- number of items: `-2`
+				- Number of items: `-2`
 			- Sorting: `sort` 
-				- numerical: `-n`
-				- case insensitive: `-f`
-				- ignore leading blanks: `-b` 
-				- reverse order: `-r`
-			- `uniq`
-				- count: `-c`
-				- case insensitive: `-i`
-			- stream editor: `sed`
-				- extended regular expressions: `-E`
-				- command: `-e 's/x/X/g'`
-				- in place: `-i .bak`
+				- Numerical: `-n`
+				- Case insensitive: `-f`
+				- Ignore leading blanks: `-b` 
+				- Reverse order: `-r`
+			- Remove duplicate lines: `uniq`
+				- Count: `-c`
+				- Case insensitive: `-i`
+			- [Translate](https://www.geeksforgeeks.org/tr-command-in-unix-linux-with-examples/): `cat shakespeare-sonnets.txt | tr '[:AaEeIiOoUu:]' '[:XxXxXxXxXx:]'`
+				- `tr` takes input from stdin and outputs to stdout (use pipes and redirection) and can use literal characters, character classes, and POSIX character classes
+				- white space normalization with `-s`
+					- `'[:space:]'`, `'[:blank:]'` (for spaces and tabs), and `[ ]`
+				- Activity: lowercase to uppercase, white space, and your own translations
+			- Stream editor: `sed`
+				- Extended regular expressions: `-E`
+				- Command: `-e 's/x/X/g'`
+				- In place: `-i .bak`
+	
 	- Activity: replacing all the vowels in Shakespeare’s sonnets?
 
 ### Afternoon (3 hours - 15 min break)
