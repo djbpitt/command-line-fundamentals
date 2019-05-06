@@ -20,9 +20,11 @@
 
 	- The hierarchical file system
 		- Don’t put everything in *Documents/* or in *Desktop/*
+		- Don’t be [this person](messy-desktop.png)
 	- File names 
 		- Letters (case), numbers, and `.-_` (**no spaces and no other punctuation**)
-		- File name extensions
+			- Try interacting with the file called *x y z.txt* in our *data* subdirectory
+		- Use conventional file name extensions (and how do I know what those are?)
 		- “Final” should never appear in your file names [and here is why](https://a.disquscdn.com/uploads/mediaembed/images/1707/4842/original.jpg)
 	- Show file name extensions and hidden files
 		- MacOS file extensions: Finder > Preferences > Advanced > “Show all file extensions”
@@ -31,8 +33,8 @@
 	- File permissions and ownership
 		- MacOS: Select file in finder, then `Cmd + i` (or right-click and “Get info”)
 		- Windows: Select file in Explorer, right click and “Properties”)
-	- Danger zones: there is no `undelete`
 	- Case sensitive vs case-preserving
+	- Danger zones: there is no `undelete`
 1. Activity: Clean up your mess (40 mins)
 
 ### Afternoon (3 hours - 15 min break)
