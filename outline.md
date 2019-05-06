@@ -85,7 +85,7 @@
 	- Git vs GitHub
 		- All editing is local (do not edit directly on GitHub), but pushed to GitHub
 		- Use GitHub directly only for Issues, Projects, Settings
-	- <a href="gitworkflow.png" target="_blank">The Git workflow</a>: `status`; `add`, `commit`, `push`; `pull`
+	- [The Git workflow](gitworkflow.png): `status`; `add`, `commit`, `push`; `pull`
 		- Check status of local repo: `git status`
 		- Integrate local work into repo
 			- `git add <filename>`
