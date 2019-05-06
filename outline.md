@@ -42,6 +42,9 @@
 1. The shell (20 mins)
 	- What is the shell?
 		- GUI vs CLI
+		- Bringing the Unix bash shell to MacOS and Windows
+			- MacOS is almost compliant; install additional functionality with Homebrew
+			- Windows *cmd.exe* and *Powershell* are idiosyncratic, but Git bash is almost compliant; install additional functionality with Chocolatey
 		- Launching the shell (MacOS Terminal or Windows Git bash)
 		- bash (REPL: read-evaluate-print loop; run other programs)
 		- Command prompt (typically ends in `$`)
@@ -235,14 +238,21 @@
 			- Remove duplicate lines: `uniq`
 				- Count: `-c`
 				- Case insensitive: `-i`
-			- [Translate](https://www.geeksforgeeks.org/tr-command-in-unix-linux-with-examples/): `cat shakespeare-sonnets.txt | tr '[:AaEeIiOoUu:]' '[:XxXxXxXxXx:]'`
-				- `tr` takes input from stdin and outputs to stdout (use pipes and redirection) and can use literal characters, character classes, and POSIX character classes
-				- white space normalization with `-s`
-					- `'[:space:]'`, `'[:blank:]'` (for spaces and tabs), and `[ ]`
+			- Translate: `tr` (see also <https://www.geeksforgeeks.org/tr-command-in-unix-linux-with-examples/>)
+				- Reads from stdin and writes to stdout
+					- `cat shakespeare-sonnets.txt | tr 'AaEeIiOoUu' 'x'`
+					- `tr 'AaEeIiOoUu' 'x' < shakespeare-sonnets.txt`
+				- How it works: run `man tr` (MacOS) or open <https://ss64.com/bash/tr.html>
+					- Literal characters, character classes, and [POSIX character classes](https://www.regular-expressions.info/posixbrackets.html)
+						- `'[:blank:]'` (spaces and tabs)
+						- `'[:space:]'` (spaces, tabs, newline, and a few others)
+					- Squeeze: `-s`
+					- Delete: `-d`
 				- Activity: lowercase to uppercase, white space, and your own translations
 			- Stream editor: `sed`
+				- MacOS: `brew install gnu-sed` (installs `gsed`)
 				- Extended regular expressions: `-E`
-				- Command: `-e 's/x/X/g'`
+				- E.g., replace “x” with “X”: `sed -E 's/x/X/g'`
 				- In place: `-i .bak`
 	
 	- Activity: replacing all the vowels in Shakespeare’s sonnets?
