@@ -85,7 +85,7 @@
 	- Git vs GitHub
 		- All editing is local (do not edit directly on GitHub), but pushed to GitHub
 		- Use GitHub directly only for Issues, Projects, Settings
-	- [The Git workflow](gitworkflow.png): `status`; `add`, `commit`, `push`; `pull`
+	- [The Git workflow](gitworkflow.png): `git status`; `git add` and `git rm`, `git commit`, `git push`; `git pull`
 		- Check status of local repo: `git status`
 		- Integrate local work into repo
 			- `git add <filename>`
@@ -94,11 +94,13 @@
 			- `git push`
 		- Guidelines
 			- [Pull and push frequently](in_case_of_fire.png)
-			- Git adds *files*
-			- Git commits sets of line-level *changes* in multiple files (not files)
-			- Empty directories cannot be committed (add a placeholder file if necessary)
-			- Commits should be granular and conherent (don’t use `git add .` or `git commit -a -m "this is my commit message"` unless you know that your changes meet this requirement)
-			- Commit messages should be clear and meaningful (don’t be [this guy](https://xkcd.com/1296/))
+			- Thinking about commits
+				- Git adds *files*
+				- Git commits sets of line-level *changes* in multiple files (not files)
+				- Empty directories cannot be committed (add a placeholder file if necessary)
+				- Commits should be granular and coherent
+					- Don’t use `git add .` or `git commit -a -m "this is my commit message"` unless you know that your changes meet this requirement
+				- Commit messages should be clear and meaningful (don’t be [this guy](https://xkcd.com/1296/))
 		- Retrieve work from GitHub repo: `pull` (only in case of collaboration—which may be with yourself!)
 	- Git merge conflicts
 		- Avoid merge conflicts: `git pull` and `git push` often
