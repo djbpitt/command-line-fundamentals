@@ -28,7 +28,7 @@
 		- “Final” should never appear in your file names [and here is why](https://a.disquscdn.com/uploads/mediaembed/images/1707/4842/original.jpg)
 	- Show file name extensions and hidden files
 		- MacOS file extensions: Finder > Preferences > Advanced > “Show all file extensions”
-		- MacOS hidden files: `Ctrl + Shift + .`
+		- MacOS hidden files: `Cmd + Shift + .`
 		- Windows: File Explorer > View > Select “Hidden items” and “File name extensions” 
 	- File permissions and ownership
 		- MacOS: Select file in finder, then `Cmd + i` (or right-click and “Get info”)
@@ -355,7 +355,4 @@ ____
 * Contact your instructors
 	* David: djbpitt at gmail.com
 	* Gabi: gabakeane at gmail.com
-
-
-
 
