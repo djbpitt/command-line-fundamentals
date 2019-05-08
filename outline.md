@@ -87,6 +87,7 @@
 		- Supports unlimited undo, collaboration, branching
 	- Git vs GitHub
 		- All editing is local (do not edit directly on GitHub), but pushed to GitHub
+	- [Privacy on GitHub](https://help.github.com/en/articles/about-githubs-use-of-your-data)  
 		- Use GitHub directly only for Issues, Projects, Settings
 	- [The Git workflow](gitworkflow.png): `git status`; `git add` and `git rm`, `git commit`, `git push`; `git pull`
 		- Check status of local repo: `git status`
@@ -115,7 +116,10 @@
 		- `git push`
 		- Check the results on GitHub
 
-1. The command line 1 (25 mins)
+
+## Wednesday
+### Morning (3 hours - 15 min break)
+1. Review and command line 1 (20 mins)
 	- Change directory: `cd`
 	- Print working directory:`pwd`
 	- Manual: `man` and Git Bash [online manual](https://ss64.com/bash)
@@ -131,9 +135,6 @@
 		- Clear the screen: `Ctrl + l`
 		- MacOS only: Option + click into command line to move command-line cursor
 
-
-## Wednesday
-### Morning (3 hours - 15 min break)
 1. Programs and files 1 (45 mins)
 	- `file`
 	- What are files? What are programs? What are directories?
@@ -151,7 +152,7 @@
 			- MacOS: first run `brew install dos2unix`
 		- Back slashes and forward slashes (only for *cmd.exe* and *Powershell*)
 
-1. Regex (120 mins)
+1. Regex (100 mins)
 	- Flavors of `grep` (global regular expression print)
 		- Plain ol’ grep: `grep` (don’t use)
 		- Extended grep
