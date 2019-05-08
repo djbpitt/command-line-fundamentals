@@ -174,6 +174,8 @@
 1. Command line 2 (90 mins)
 	- `whoami`
 	- `clear` (`ctrl + l`)
+	- `cat`
+	- `less`
 	- `history`
 		- Recall and editing
 		- `!!`: runs last command
@@ -220,7 +222,7 @@
 	- Filters and piping
 		- `|`
 	- More commands
-		- Commands you know: `ls`, `grep`, `less`, `echo`, `cat`, `history`
+		- Commands you know: `ls`, `egrep`, `less`, `echo`, `cat`, `history`
 		- New commands
 			- Word/line/character/byte count: `wc` 
 				- Number of bytes: `-c`
