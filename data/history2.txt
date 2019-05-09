@@ -1,0 +1,500 @@
+    5  git add
+    6  pwd
+    7  curl -L "https://dl.bintray.com/existdb/releases/<FILE_PATH>" -o <FILE.EXT>
+    8  curl -L "https://dl.bintray.com/existdb/releases/<FILE_PATH>" -o <FILE.EXT>
+    9  curl -L "https://dl.bintray.com/existdb/releases/<FILE_PATH>" -o <FILE.EXT>
+   10  vic
+   11  cd Desktop/vict_hoax/XML/TEI_xml/
+   12  ls
+   13  grep * "placeName=[a-b]"
+   14  grep "placeName = [a-z]" *
+   15  grep 'placeName = "[a-z]"' *
+   16  java -jar saxon/saxon9he.jar -s:TEI_xml/ -xsl:teiHeader.xsl -o:art-maps/
+   17  java -jar ./saxon/saxon9he.jar -s:TEI_xml/ -xsl:teiHeader.xsl -o:art-maps/
+   18  brew jquery
+   19  npm -v
+   20  npm -v
+   21  npm install jquery
+   22  npm install popper.js --save
+   23  cd Desktop/vict_hoax/
+   24  git add -A
+   25  git status
+   26  git commit -m "small typo fix and app dv"
+   27  git push
+   28  git push
+   29  cd Documents/portfolio/
+   30  git add -A
+   31  git commit -m "adding links and pictures"
+   32  git push
+   33  git add -A
+   34  git commit -m "bootstrap container-fluid"
+   35  git push
+   36  git add -A
+   37  git commit -m "adding row"
+   38  git push
+   39  git add -A
+   40  git commit -m "fixing links"
+   41  git push
+   42  git add -
+   43  git add -
+   44  git add -A
+   45  git commit -m 
+   46  git commit -m "fixing margins"
+   47  git push
+   48  cd Documents/portfolio/
+   49  git status
+   50  git add -
+   51  git add -A
+   52  git commit -m "from last week"
+   53  git push
+   54  git add -A
+   55  git commit -m "final fixes"
+   56  git push
+   57  git add -A
+   58  git commit -m "adding typewriter icon"
+   59  git push
+   60  /Users/gab_keane/Desktop/eXist-db.app/Contents/MacOS/eXist-JavaAppLauncher ; exit;
+   61  pwd
+   62  cd Desktop/command-line-fundamentals/
+   63  ls
+   64  git pull
+   65  git add -A
+   66  git commit -m "outline of topics to be covered"
+   67  git push
+   68  cd Downloads/1922\ Ulysses/
+   69  ls
+   70  wc -l u22_paglinnr/*
+   71  head u22_paglinnr/u01a_22telpl.txt
+   72  ls
+   73  cd u22_pagnr-paratags/
+   74  ls
+   75  grep -v ^[0-9]+$ u01a_22telpg.txt | wc -l
+   76  for file in *.txt ; do  grep -v ^[0-9]+$ $file | wc -l;  done
+   77  history
+   78  cd ..
+   79  cd ..
+   80  ls
+   81  history > history.txt
+   82  less history.txt 
+   83  locale
+   84  cd Downloads/1922\ Ulysses/
+   85  ls
+   86  cd u22_paglinnr/
+   87  ls
+   88  less u01a_22telpl.txt 
+   89  cd ../u22_pagnr-paratags/
+   90  ls
+   91  less u01a_22telpg.txt 
+   92  less u01a_22telpg.txt 
+   93  less u01a_22telpg.txt 
+   94  less -N u01a_22telpg.txt 
+   95  cd u22_paglinnr/
+   96  cd ../u22_paglinnr/
+   97  cd ../u22_paglinnr/
+   98  ls
+   99  less -N u01a_22telpl.txt 
+  100  cd ..
+  101  ls
+  102  ls
+  103  wc -l u22_pagnr-noparatags/
+  104  wc -l u22_pagnr-noparatags/*
+  105  wc -l u22_pagnr-paratags/*
+  106  head u22_pagnr-paratags/u01a_22telpg.txt
+  107  history
+  108  history
+  109  cd Desktop/command-line-fundamentals/
+  110  git pull
+  111  git pull
+  112  cd data/
+  113  ls
+  114  cat enable1.txt
+  115  less enable1.txt
+  116  egrep "un.*able$" enable1.txt | wc -l
+  117  egrep "un.*able$" enable1.txt
+  118  egrep "^un.*able$" enable1.txt | wc -l
+  119  egrep --color "un.*able$" enable1.txt
+  120  egrep --color "un.*able$" enable1.txt
+  121  cd Desktop/
+  122  cd command-line-fundamentals/
+  123  git add -A
+  124  git commit -m "making ulysses into plain text files"
+  125  git push
+  126  git pull
+  127  cd Desktop/command-line-fundamentals/
+  128  git pull
+  129  cd data
+  130  egrep -C \w$ shakespeare-sonnets.txt 
+  131  egrep -C '\w$' shakespeare-sonnets.txt 
+  132  egrep '\w$'-C  shakespeare-sonnets.txt 
+  133  egrep '\w$' -C shakespeare-sonnets.txt 
+  134  egrep '.* .*' shakespeare-sonnets.txt | egrep 
+  135  egrep '.* .*' shakespeare-sonnets.txt | egrep 'I'
+  136  egrep '.* .*' shakespeare-sonnets.txt | egrep '\bI\b'
+  137  egrep '.* .*' shakespeare-sonnets.txt | egrep --color '\bI\b'
+  138  egrep '.* .*' shakespeare-sonnets.txt | egrep --color '\bI\b'- `egrep -o '[aeiouy]' shakespeare-sonnets.txt | sort | uniq -c`
+  139  egrep -o '[aeiouy]' shakespeare-sonnets.txt | sort | uniq -c
+  140  cat shakespeare-sonnets.txt | tr '[:upper:]' '[:lower:]' | egrep -o '[a-z]' | sort | uniq -c
+  141  cat shakespeare-sonnets.txt | tr '[:upper:]' '[:lower:]' | egrep -o '[a-z]' | sort | uniq -c | sort -n
+  142  cat shakespeare-sonnets.txt | tr '[:upper:]' '[:lower:]' | egrep -o '[a-z]' | sort | uniq -c | sort -nr
+  143  cat shakespeare-sonnets.txt | tr '[:upper:]' '[:lower:]' | egrep -o '\w' | sort | uniq -c | sort -nr
+  144  cat shakespeare-sonnets.txt | tr '[:upper:]' '[:lower:]' | egrep -o '.' | sort | uniq -c | sort -nr
+  145  pcregrep '(?s)^[XVILC]+\n.*\n\n' shakespeare-sonnets.txt
+  146  pcregrep '^[XVILC]+\n.*\n\n' shakespeare-sonnets.txt
+  147  pcregrep -M '^[XVILC]+\n.*\n\n' shakespeare-sonnets.txt
+  148  pcregrep -M '^[XVILC]+' shakespeare-sonnets.txt
+  149  pcregrep -M '^[XVILC]+\n' shakespeare-sonnets.txt
+  150  pcregrep -M '^[XVILC]+.*\n\n' shakespeare-sonnets.txt
+  151  man pcregrep
+  152  pcregrep -M '^[XVILC]+.*\n' shakespeare-sonnets.txt
+  153  pcregrep -M '\n\n^[XVILC]+.*\n' shakespeare-sonnets.txt
+  154  pcregrep -M '\n\n^[XVILC]+\n' shakespeare-sonnets.txt
+  155  pcregrep -M '\n^[XVILC]+\n' shakespeare-sonnets.txt
+  156  pcregrep -M '\n\n^[XVILC]+\n' shakespeare-sonnets.txt
+  157  xxd shakespeare-sonnets.txt 
+  158  pcregrep -M '\n^[XVILC]+\n' shakespeare-sonnets.txt
+  159  pcregrep -M '^[XVILC]+\n' shakespeare-sonnets.txt
+  160  pcregrep -M '^[XVILC]+\n.*' shakespeare-sonnets.txt
+  161  pcregrep -M '^[XVILC]+\n.*\n{3,}' shakespeare-sonnets.txt
+  162  pcregrep -M '^[XVILC]+\n.*\n{2,}' shakespeare-sonnets.txt
+  163  pcregrep -M '^[XVILC]+\n.*' shakespeare-sonnets.txt
+  164  man pcregrep
+  165  less shakespeare-sonnets.txt 
+  166  less shakespeare-sonnets.txt 
+  167  man less
+  168  cd Desktop/command-line-fundamentals/
+  169  git status
+  170  git add -A
+  171  git commit -m "expand outline and create sonnet tasks"
+  172  git push
+  173  which
+  174  man which
+  175  which man
+  176  whereis bbedit
+  177  whereis doc
+  178  whereis man
+  179  which python
+  180  whereis python
+  181  man find
+  182  find command-line-fundamentals
+  183  ls
+  184  find Applications
+  185  type python
+  186  find python
+  187  find Applications/*
+  188  ls
+  189  man type
+  190  pandoc
+  191  brew install pandoc
+  192  man pandoc
+  193  cd Desktop/command-line-fundamentals/
+  194  ls
+  195  cd data
+  196  ls
+  197  mkdir tmp
+  198  cp shakespeare-sonnets.txt tmp
+  199  cd tmp
+  200  ls
+  201  man pandoc
+  202  rm shakespeare-sonnets.txt 
+  203  cd ..
+  204  cd ..
+  205  ls
+  206  cp outline.md data/tmp
+  207  ls
+  208  cd data/tmp
+  209  ls
+  210  pandoc -o outline.md outline.html
+  211  ls
+  212  pandoc man
+  213  man pandoc
+  214  pandoc outline.md -o outline.html
+  215  ls
+  216  less outline.html
+  217  man pando
+  218  man pandoc
+  219  pandoc outline.md -t html -o outline.html
+  220  ls
+  221  less outline.html
+  222  $!
+  223  less $!
+  224  ls
+  225  cd
+  226  ls
+  227  cd Documents
+  228  pwd
+  229  cd
+  230  cd documents
+  231  ls
+  232  pwd
+  233  cd Classics
+  234  cd ..
+  235  pwd
+  236  echo $PATH
+  237  echo $PATH
+  238  echo '$PATH'
+  239  cd desktop
+  240  cd
+  241  cd desktop
+  242  cd command-line-fundamentals/
+  243  git pull
+  244  echo $path
+  245  echo $PATH
+  246  git status
+  247  git commit -a -m "adding tr to thursday's activities"
+  248  git push
+  249  git config --list
+  250  cd
+  251  cd Desktop
+  252  cd 
+  253  cd
+  254  cd Desktop
+  255  cd command-line-fundamentals/
+  256  cd data
+  257  ls
+  258  head shakespeare-sonnets.txt 
+  259  head shakespeare-sonnets.txt 
+  260  head x y z.txt
+  261  ls
+  262  whoami
+  263  cd
+  264  cd DESKTOP
+  265  ls
+  266  cd
+  267  cd DeSKtop
+  268  cd 
+  269  clear
+  270  pwd
+  271  cd
+  272  cd Desktop/
+  273  git clone https://github.com/gabikeane/gabs-practice-repo.git
+  274  ls
+  275  ls
+  276  ls -F
+  277  cd gabs-practice-repo/
+  278  pwd
+  279  pwd
+  280  cd ~/Desktop/
+  281  pwd
+  282  cd gabs-practice-repo/cd ..
+  283  tree
+  284  pwd
+  285  cd
+  286  cd Desktop
+  287  pwd
+  288  cd gabs-practice-repo/
+  289  pwd
+  290  cd ../..
+  291  pwd
+  292  cd -
+  293  pwd
+  294  cd ../../../..
+  295  pwd
+  296  cd ..
+  297  pwd
+  298  cd -
+  299  cd
+  300  cd Desktop/gabs-practice-repo/
+  301  ls
+  302  pwd
+  303  pwd
+  304  cd ../command-line-fundamentals/
+  305  pwd
+  306  man tree
+  307  tree -L 1
+  308  cd data/
+  309  ls x y z.txt
+  310  cd ..
+  311  ls
+  312  cd ../..
+  313  pwd
+  314  cd Desktop/
+  315  cd ..
+  316  pwd
+  317  cd /
+  318  ls
+  319  cd Users/
+  320  ls
+  321  cd gab_keane/
+  322  pwd
+  323  pwd
+  324  cd Desktop/gabs-practice-repo/
+  325  ls
+  326  ld
+  327  ls
+  328  ls
+  329  git status
+  330  git add README.md 
+  331  git status
+  332  git status
+  333  git commit -m "updating my README file with new information"
+  334  git status
+  335  git push
+  336  ll
+  337  ls
+  338  vim .gitignore
+  339  ls
+  340  ls -a
+  341  git status
+  342  rm .gitignore 
+  343  git status
+  344  git status
+  345  git status
+  346  git push
+  347  cd ../command-line-fundamentals/
+  348  git log
+  349  git log
+  350  git pull
+  351  git log
+  352  git log
+  353  man ls
+  354  ls
+  355  ls -F
+  356  ls -F data/
+  357  ls -F data/ulysses_practice/
+  358  ls /
+  359  man ls
+  360  pwd
+  361  cd Desktop/command-line-fundamentals/data/
+  362  ls
+  363  egrep --color '^x.*x$' enable1.txt 
+  364  egrep --color '^(.).*x$' enable1.txt 
+  365  egrep --color '^(.).*\1$' enable1.txt 
+  366  egrep --color '^(..).*\1$' enable1.txt 
+  367  egrep --color '^(.).\1$' enable1.txt 
+  368  egrep --color '^(.)(.)\2\1$' enable1.txt 
+  369  egrep --color '^(.)(.).\2\1$' enable1.txt 
+  370  egrep --color '^(.)(.)(.)\3\2\1$' enable1.txt 
+  371  egrep --color '^[aeiou]' enable1.txt 
+  372  egrep --color '^([aeiou]).*\1$' enable1.txt 
+  373  egrep -c '^([aiou]).*\1$' enable1.txt 
+  374  egrep --color '^([aeiou]).*\1$' enable1.txt 
+  375  egrep --color '^[aeiou]' enable1.txt 
+  376  egrep --color '^[^aeiou]' enable1.txt 
+  377  egrep --color '[^aeiou]' enable1.txt 
+  378  egrep --color '^[j-m]' enable1.txt 
+  379  egrep --color '^[aeiou]+$' enable1.txt 
+  380  egrep --color '^[^aeiou]+$' enable1.txt 
+  381  egrep --color '^[^aeiouy]+$' enable1.txt 
+  382  egrep --color 'q' enable1.txt 
+  383  egrep --color 'q[^u]' enable1.txt 
+  384  egrep --color 'suq' enable1.txt 
+  385  egrep --color 'q$' enable1.txt 
+  386  egrep --color 'qs$' enable1.txt 
+  387  pcregrep --color 'q(?!u)' enable1.txt 
+  388  egrep --color 'q$|q[^u]' enable1.txt 
+  389  egrep --color '(q$)|(q[^u])' enable1.txt 
+  390  egrep --color '[aeiou][aeiou][aeiou][aeiou][aeiou]'
+  391  egrep --color '[aeiou][aeiou][aeiou][aeiou][aeiou]' enable1.txt 
+  392  egrep --color '([aeiou])\1' enable1.txt 
+  393  egrep --color '[aeiou]{5}' enable1.txt 
+  394  egrep --color '[aeiou]{4}' enable1.txt 
+  395  egrep --color '[aeiou]{4,}' enable1.txt 
+  396  egrep --color '[aeiou]{2,3}' enable1.txt 
+  397  egrep --color '[aeiou]{,3}' enable1.txt 
+  398  egrep --color '[aeiou]{1,3}' enable1.txt 
+  399  egrep --color '^(.*)\1$' enable1.txt 
+  400  egrep --color '^(.*)\1' enable1.txt 
+  401  egrep --color '^(.+)\1' enable1.txt 
+  402  egrep --color '(.+)\1' enable1.txt 
+  403  egrep --color '(.{3})\1' enable1.txt 
+  404  egrep --color '^[^aeiou]{7,}' enable1.txt 
+  405  egrep --color '^[^aeiouy]{7,}' enable1.txt 
+  406  egrep --color '^[^aeiouy]{6,}' enable1.txt 
+  407  egrep --color 'z' enable1.txt 
+  408  egrep --color 'zz' enable1.txt 
+  409  egrep --color 'z{2}' enable1.txt 
+  410  egrep --color '(z)(.*)(z)' enable1.txt 
+  411  egrep --color 'z.*z' enable1.txt 
+  412  egrep --color 'z.*?z' enable1.txt 
+  413  egrep --color 'z.*z.*z' enable1.txt 
+  414  egrep --color 'z.*z' enable1.txt 
+  415  egrep --color 'z.+z' enable1.txt 
+  416  egrep --color 'ooo' enable1.txt 
+  417  egrep --color 'eee' enable1.txt 
+  418  egrep --color '(.)\1\1' enable1.txt 
+  419  egrep --color 'r.+r' enable1.txt 
+  420  egrep --color 'r[^r]r' enable1.txt 
+  421  egrep --color 'r[^r]+r' enable1.txt 
+  422  egrep --color '.{4,}' enable1.txt 
+  423  egrep --color '.{1,4}' enable1.txt 
+  424  egrep --color '^.{1,4}$' enable1.txt 
+  425  egrep --color '[aeiou]' enable1.txt 
+  426  egrep --color '^z' enable1.txt 
+  427  egrep --color '^z' enable1.txt | head
+  428  egrep --color 'a' enable1.txt
+  429  egrep 'a' enable1.txt | egrep 'e' 
+  430  egrep 'a' enable1.txt | egrep 'e' | egrep 'i' | egrep 'o' | egrep 'u'
+  431  egrep --color '[aeiou]{2,}' enable1.txt 
+  432  egrep --color '[aeiou]{2,}' enable1.txt | egrep '.{5,}'
+  433  egrep --color '[aeiou]{2,}' enable1.txt | egrep '.{8,}'
+  434  egrep --color '[aeiou]{2,}' enable1.txt | egrep '.{12,}'
+  435  pwd
+  436  ls
+  437  head shakespeare-sonnets.txt 
+  438  head -20
+  439  head -20 shakespeare-sonnets.txt 
+  440  file shakespeare-sonnets.txt 
+  441  wc -l shakespeare-sonnets.txt 
+  442  less shakespeare-sonnets.txt 
+  443  clear
+  444  egrep --color '[IVXLC]+' shakespeare-sonnets.txt 
+  445  egrep --color '^[IVXLC]+' shakespeare-sonnets.txt 
+  446  egrep --color '^[IVXLC]+$' shakespeare-sonnets.txt 
+  447  egrep -c '^[IVXLC]+$' shakespeare-sonnets.txt 
+  448  egrep -c '^[IVXLC]*$' shakespeare-sonnets.txt 
+  449  egrep --color '^[IVXLC]*$' shakespeare-sonnets.txt 
+  450  egrep --color '^[IVXLC]+$' shakespeare-sonnets.txt 
+  451  egrep -v --color '^[IVXLC]+$' shakespeare-sonnets.txt
+  452  egrep --color '^$' shakespeare-sonnets.txt
+  453  egrep -c '^$' shakespeare-sonnets.txt
+  454  egrep '^$' shakespeare-sonnets.txt | less
+  455  clear
+  456  egrep '^$' shakespeare-sonnets.txt | wc -l
+  457  egrep '^$' shakespeare-sonnets.txt | wc -l
+  458  egrep 'I' shakespeare-sonnets.txt
+  459  egrep --color 'I' shakespeare-sonnets.txt
+  460  egrep --color -w 'I' shakespeare-sonnets.txt
+  461  egrep --color -w 'I' shakespeare-sonnets.txt | head
+  462  egrep --color -w 'I' shakespeare-sonnets.txt | egrep '[^I]'| head
+  463  egrep -w --color 'L.*' shakespeare-sonnets.txt 
+  464  egrep --color '\bL.*\b' shakespeare-sonnets.txt 
+  465  egrep --color '\bL.*?\b' shakespeare-sonnets.txt 
+  466  egrep -w --color 'L.*?' shakespeare-sonnets.txt 
+  467  pcregrep --color '\bL.*?\b' shakespeare-sonnets.txt 
+  468  egrep --color '\w$' shakespeare-sonnets.txt 
+  469  egrep -v '^[ICVLX]+$' shakespeare-sonnets.txt | egrep --color '\w$'
+  470  egrep -v '^[ICVLX]+$' shakespeare-sonnets.txt | egrep -C 1 --color '\w$'
+  471  egrep -v '^[ICVLX]+$' shakespeare-sonnets.txt | egrep -A 1 --color '\w$'
+  472  man egrep
+  473  egrep -o 'Love' shakespeare-sonnets.txt 
+  474  egrep --color 'Love' shakespeare-sonnets.txt 
+  475  egrep -o '[aeiouy]' shakespeare-sonnets.txt 
+  476  egrep -o '[aeiouy]' shakespeare-sonnets.txt | sort
+  477  egrep -o '[aeiouy]' shakespeare-sonnets.txt | sort | uniq
+  478  egrep -o '[aeiouy]' shakespeare-sonnets.txt | sort | uniq -c
+  479  egrep -c 'a' shakespeare-sonnets.txt 
+  480  egrep -oc 'a' shakespeare-sonnets.txt 
+  481  man egrep
+  482  egrep 'love' shakespeare-sonnets.txt 
+  483  egrep --color 'love' shakespeare-sonnets.txt 
+  484  egrep -o --color 'love' shakespeare-sonnets.txt 
+  485  egrep -oc --color 'love' shakespeare-sonnets.txt 
+  486  egrep -o --color 'love' shakespeare-sonnets.txt | wc -l
+  487  egrep --color 'love.*love' shakespeare-sonnets.txt 
+  488  egrep -c --color 'love.*love' shakespeare-sonnets.txt 
+  489  egrep -c --color 'love.*love.*love' shakespeare-sonnets.txt 
+  490  egrep --color 'love.*love.*love' shakespeare-sonnets.txt 
+  491  egrep -w --color 'love.*love' shakespeare-sonnets.txt 
+  492  egrep -w --color '[Ll]ove.*[Ll]ove' shakespeare-sonnets.txt 
+  493  egrep --color -i 'love' shakespeare-sonnets.txt 
+  494  cat shakespeare-sonnets.txt 
+  495  cat shakespeare-sonnets.txt | tr '[:upper:]' '[:lower:]' 
+  496  cat shakespeare-sonnets.txt | tr '[:upper:]' '[:lower:]' | egrep -o '.'
+  497  cat shakespeare-sonnets.txt | tr '[:upper:]' '[:lower:]' | egrep -o '.'| sort
+  498  cat shakespeare-sonnets.txt | tr '[:upper:]' '[:lower:]' | egrep -o '.'| sort | uniq
+  499  cat shakespeare-sonnets.txt | tr '[:upper:]' '[:lower:]' | egrep -o '.'| sort | uniq -c
+  500  egrep '[()]' shakespeare-sonnets.txt 
+  501  egrep --color '[()]' shakespeare-sonnets.txt 
+  502  less shakespeare-sonnets.txt 
+  503  less shakespeare-sonnets.txt 
+  504  history > history2.txt
