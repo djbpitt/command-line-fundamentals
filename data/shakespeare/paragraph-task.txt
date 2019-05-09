@@ -1,0 +1,500 @@
+   67  git push
+   68  cd Downloads/1922\ Ulysses/
+   69  ls
+   70  wc -l u22_paglinnr/*
+   71  head u22_paglinnr/u01a_22telpl.txt
+   72  ls
+   73  cd u22_pagnr-paratags/
+   74  ls
+   75  grep -v ^[0-9]+$ u01a_22telpg.txt | wc -l
+   76  for file in *.txt ; do  grep -v ^[0-9]+$ $file | wc -l;  done
+   77  history
+   78  cd ..
+   79  cd ..
+   80  ls
+   81  history > history.txt
+   82  less history.txt 
+   83  locale
+   84  cd Downloads/1922\ Ulysses/
+   85  ls
+   86  cd u22_paglinnr/
+   87  ls
+   88  less u01a_22telpl.txt 
+   89  cd ../u22_pagnr-paratags/
+   90  ls
+   91  less u01a_22telpg.txt 
+   92  less u01a_22telpg.txt 
+   93  less u01a_22telpg.txt 
+   94  less -N u01a_22telpg.txt 
+   95  cd u22_paglinnr/
+   96  cd ../u22_paglinnr/
+   97  cd ../u22_paglinnr/
+   98  ls
+   99  less -N u01a_22telpl.txt 
+  100  cd ..
+  101  ls
+  102  ls
+  103  wc -l u22_pagnr-noparatags/
+  104  wc -l u22_pagnr-noparatags/*
+  105  wc -l u22_pagnr-paratags/*
+  106  head u22_pagnr-paratags/u01a_22telpg.txt
+  107  history
+  108  history
+  109  cd Desktop/command-line-fundamentals/
+  110  git pull
+  111  git pull
+  112  cd data/
+  113  ls
+  114  cat enable1.txt
+  115  less enable1.txt
+  116  egrep "un.*able$" enable1.txt | wc -l
+  117  egrep "un.*able$" enable1.txt
+  118  egrep "^un.*able$" enable1.txt | wc -l
+  119  egrep --color "un.*able$" enable1.txt
+  120  egrep --color "un.*able$" enable1.txt
+  121  cd Desktop/
+  122  cd command-line-fundamentals/
+  123  git add -A
+  124  git commit -m "making ulysses into plain text files"
+  125  git push
+  126  git pull
+  127  cd Desktop/command-line-fundamentals/
+  128  git pull
+  129  cd data
+  130  egrep -C \w$ shakespeare-sonnets.txt 
+  131  egrep -C '\w$' shakespeare-sonnets.txt 
+  132  egrep '\w$'-C  shakespeare-sonnets.txt 
+  133  egrep '\w$' -C shakespeare-sonnets.txt 
+  134  egrep '.* .*' shakespeare-sonnets.txt | egrep 
+  135  egrep '.* .*' shakespeare-sonnets.txt | egrep 'I'
+  136  egrep '.* .*' shakespeare-sonnets.txt | egrep '\bI\b'
+  137  egrep '.* .*' shakespeare-sonnets.txt | egrep --color '\bI\b'
+  138  egrep '.* .*' shakespeare-sonnets.txt | egrep --color '\bI\b'- `egrep -o '[aeiouy]' shakespeare-sonnets.txt | sort | uniq -c`
+  139  egrep -o '[aeiouy]' shakespeare-sonnets.txt | sort | uniq -c
+  140  cat shakespeare-sonnets.txt | tr '[:upper:]' '[:lower:]' | egrep -o '[a-z]' | sort | uniq -c
+  141  cat shakespeare-sonnets.txt | tr '[:upper:]' '[:lower:]' | egrep -o '[a-z]' | sort | uniq -c | sort -n
+  142  cat shakespeare-sonnets.txt | tr '[:upper:]' '[:lower:]' | egrep -o '[a-z]' | sort | uniq -c | sort -nr
+  143  cat shakespeare-sonnets.txt | tr '[:upper:]' '[:lower:]' | egrep -o '\w' | sort | uniq -c | sort -nr
+  144  cat shakespeare-sonnets.txt | tr '[:upper:]' '[:lower:]' | egrep -o '.' | sort | uniq -c | sort -nr
+  145  pcregrep '(?s)^[XVILC]+\n.*\n\n' shakespeare-sonnets.txt
+  146  pcregrep '^[XVILC]+\n.*\n\n' shakespeare-sonnets.txt
+  147  pcregrep -M '^[XVILC]+\n.*\n\n' shakespeare-sonnets.txt
+  148  pcregrep -M '^[XVILC]+' shakespeare-sonnets.txt
+  149  pcregrep -M '^[XVILC]+\n' shakespeare-sonnets.txt
+  150  pcregrep -M '^[XVILC]+.*\n\n' shakespeare-sonnets.txt
+  151  man pcregrep
+  152  pcregrep -M '^[XVILC]+.*\n' shakespeare-sonnets.txt
+  153  pcregrep -M '\n\n^[XVILC]+.*\n' shakespeare-sonnets.txt
+  154  pcregrep -M '\n\n^[XVILC]+\n' shakespeare-sonnets.txt
+  155  pcregrep -M '\n^[XVILC]+\n' shakespeare-sonnets.txt
+  156  pcregrep -M '\n\n^[XVILC]+\n' shakespeare-sonnets.txt
+  157  xxd shakespeare-sonnets.txt 
+  158  pcregrep -M '\n^[XVILC]+\n' shakespeare-sonnets.txt
+  159  pcregrep -M '^[XVILC]+\n' shakespeare-sonnets.txt
+  160  pcregrep -M '^[XVILC]+\n.*' shakespeare-sonnets.txt
+  161  pcregrep -M '^[XVILC]+\n.*\n{3,}' shakespeare-sonnets.txt
+  162  pcregrep -M '^[XVILC]+\n.*\n{2,}' shakespeare-sonnets.txt
+  163  pcregrep -M '^[XVILC]+\n.*' shakespeare-sonnets.txt
+  164  man pcregrep
+  165  less shakespeare-sonnets.txt 
+  166  less shakespeare-sonnets.txt 
+  167  man less
+  168  cd Desktop/command-line-fundamentals/
+  169  git status
+  170  git add -A
+  171  git commit -m "expand outline and create sonnet tasks"
+  172  git push
+  173  which
+  174  man which
+  175  which man
+  176  whereis bbedit
+  177  whereis doc
+  178  whereis man
+  179  which python
+  180  whereis python
+  181  man find
+  182  find command-line-fundamentals
+  183  ls
+  184  find Applications
+  185  type python
+  186  find python
+  187  find Applications/*
+  188  ls
+  189  man type
+  190  pandoc
+  191  brew install pandoc
+  192  man pandoc
+  193  cd Desktop/command-line-fundamentals/
+  194  ls
+  195  cd data
+  196  ls
+  197  mkdir tmp
+  198  cp shakespeare-sonnets.txt tmp
+  199  cd tmp
+  200  ls
+  201  man pandoc
+  202  rm shakespeare-sonnets.txt 
+  203  cd ..
+  204  cd ..
+  205  ls
+  206  cp outline.md data/tmp
+  207  ls
+  208  cd data/tmp
+  209  ls
+  210  pandoc -o outline.md outline.html
+  211  ls
+  212  pandoc man
+  213  man pandoc
+  214  pandoc outline.md -o outline.html
+  215  ls
+  216  less outline.html
+  217  man pando
+  218  man pandoc
+  219  pandoc outline.md -t html -o outline.html
+  220  ls
+  221  less outline.html
+  222  $!
+  223  less $!
+  224  ls
+  225  cd
+  226  ls
+  227  cd Documents
+  228  pwd
+  229  cd
+  230  cd documents
+  231  ls
+  232  pwd
+  233  cd Classics
+  234  cd ..
+  235  pwd
+  236  echo $PATH
+  237  echo $PATH
+  238  echo '$PATH'
+  239  cd desktop
+  240  cd
+  241  cd desktop
+  242  cd command-line-fundamentals/
+  243  git pull
+  244  echo $path
+  245  echo $PATH
+  246  git status
+  247  git commit -a -m "adding tr to thursday's activities"
+  248  git push
+  249  git config --list
+  250  cd
+  251  cd Desktop
+  252  cd 
+  253  cd
+  254  cd Desktop
+  255  cd command-line-fundamentals/
+  256  cd data
+  257  ls
+  258  head shakespeare-sonnets.txt 
+  259  head shakespeare-sonnets.txt 
+  260  head x y z.txt
+  261  ls
+  262  whoami
+  263  cd
+  264  cd DESKTOP
+  265  ls
+  266  cd
+  267  cd DeSKtop
+  268  cd 
+  269  clear
+  270  pwd
+  271  cd
+  272  cd Desktop/
+  273  git clone https://github.com/gabikeane/gabs-practice-repo.git
+  274  ls
+  275  ls
+  276  ls -F
+  277  cd gabs-practice-repo/
+  278  pwd
+  279  pwd
+  280  cd ~/Desktop/
+  281  pwd
+  282  cd gabs-practice-repo/cd ..
+  283  tree
+  284  pwd
+  285  cd
+  286  cd Desktop
+  287  pwd
+  288  cd gabs-practice-repo/
+  289  pwd
+  290  cd ../..
+  291  pwd
+  292  cd -
+  293  pwd
+  294  cd ../../../..
+  295  pwd
+  296  cd ..
+  297  pwd
+  298  cd -
+  299  cd
+  300  cd Desktop/gabs-practice-repo/
+  301  ls
+  302  pwd
+  303  pwd
+  304  cd ../command-line-fundamentals/
+  305  pwd
+  306  man tree
+  307  tree -L 1
+  308  cd data/
+  309  ls x y z.txt
+  310  cd ..
+  311  ls
+  312  cd ../..
+  313  pwd
+  314  cd Desktop/
+  315  cd ..
+  316  pwd
+  317  cd /
+  318  ls
+  319  cd Users/
+  320  ls
+  321  cd gab_keane/
+  322  pwd
+  323  pwd
+  324  cd Desktop/gabs-practice-repo/
+  325  ls
+  326  ld
+  327  ls
+  328  ls
+  329  git status
+  330  git add README.md 
+  331  git status
+  332  git status
+  333  git commit -m "updating my README file with new information"
+  334  git status
+  335  git push
+  336  ll
+  337  ls
+  338  vim .gitignore
+  339  ls
+  340  ls -a
+  341  git status
+  342  rm .gitignore 
+  343  git status
+  344  git status
+  345  git status
+  346  git push
+  347  cd ../command-line-fundamentals/
+  348  git log
+  349  git log
+  350  git pull
+  351  git log
+  352  git log
+  353  man ls
+  354  ls
+  355  ls -F
+  356  ls -F data/
+  357  ls -F data/ulysses_practice/
+  358  ls /
+  359  man ls
+  360  cd Desktop/command-line-fundamentals/
+  361  cd data
+  362  ls -
+  363  ls -F
+  364  cd shakespeare/
+  365  ls -F
+  366  less shakespeare-sonnets.txt 
+  367  history
+  368  egrep --color "un.*able$" enable1.txt
+  369  cd ..
+  370  egrep --color "un.*able$" enable1.txt
+  371  history
+  372  cd
+  373  cd desktop
+  374  pwd
+  375  cd command-line-fundamentals/
+  376  cp -r data
+  377  cp -r data ../Desktop
+  378  ls
+  379  cp sonnet_tasks.md sonnet_tasks.md.backup
+  380  ls
+  381  pwd
+  382  rm sonnet_tasks.md.backup
+  383  ls
+  384  cp sonnet_tasks.md ../sonnet_tasks.md.backup
+  385  ls
+  386  cd ..
+  387  ls
+  388  rm sonnet_tasks.md.backup 
+  389  cd command-line-fundamentals/
+  390  ls
+  391  cp sonnet_tasks.md ..
+  392  ls
+  393  ls ..
+  394  ls -F
+  395  cp data ..
+  396  cp -r data ..
+  397  ls ..
+  398  ls -F
+  399  ls -F ..
+  400  cd ..
+  401  ls
+  402  rm data
+  403  pwd
+  404  ls -F
+  405  rm -rf data
+  406  ls -F
+  407  rm -r gabs-practice-repo/
+  408  cd gabs-practice-repo/
+  409  ls
+  410  cd ..
+  411  echo 'Hi, Mom!'
+  412  echo $PATH
+  413  echo '$PATH'
+  414  pwd
+  415  mkdir dogs
+  416  ls -F
+  417  cd dogs/
+  418  ls -F
+  419  cd ..
+  420  rmdir dogs
+  421  ls -F
+  422  mkdir dogs
+  423  ls
+  424  cp sonnet_tasks.md dogs/
+  425  ls -F dogs
+  426  ls
+  427  ls -F
+  428  ls -F dogs
+  429  rmdir dogs
+  430  rm -rf dogs
+  431  ls
+  432  cp sonnet_tasks.md dogs.md
+  433  ls
+  434  rm -i dogs.md 
+  435  ls
+  436  cd command-line-fundamentals/
+  437  ls
+  438  ls
+  439  ls *.md
+  440  ls *.?d
+  441  cp *.md ../backup
+  442  mkdir ../backup
+  443  ls ..
+  444  cp *.md ../backup
+  445  ls ../backup
+  446  pwd
+  447  cd Desktop
+  448  cd ..
+  449  cd backup/
+  450  history
+  451  history > history.txt
+  452  ls
+  453  less history.txt 
+  454  head index.md 
+  455  head outline.md 
+  456  head < outline.md
+  457  pwd
+  458  cd ../command-line-fundamentals/
+  459  ls
+  460  ls -a
+  461  ls -aF
+  462  cd data
+  463  cd ls -aF
+  464  ls -aF
+  465  cd ..
+  466  cd ..
+  467  cd command-line-fundamentals/
+  468  cd .
+  469  ls -al
+  470  ls -alF
+  471  ln index.md temp.md
+  472  ls -l
+  473  ls -l *.md
+  474  rm temp.md 
+  475  ls -l *.md
+  476  ls -l | head
+  477  ls -la | head
+  478  whoami
+  479  ls -lah | head
+  480  ls
+  481  touch regex_tasks.md 
+  482  ls -lah
+  483  ls -F
+  484  ls -l | egrep '^d'
+  485  man ls
+  486  cd data/
+  487  cd shakespeare/
+  488  ls
+  489  cat shakespeare-sonnets.txt | tr ''[:space:]' ' '
+  490  cat shakespeare-sonnets.txt | tr '[:space:]' ' '
+  491  clear
+  492  cd ..
+  493  ls
+  494  cd shakespeare/
+  495  ls
+  496  wc shakespeare-sonnets.txt 
+  497  wc -c shakespeare-sonnets.txt 
+  498  wc -w shakespeare-sonnets.txt 
+  499  wc -l shakespeare-sonnets.txt 
+  500  head shakespeare-sonnets.txt 
+  501  head -1 shakespeare-sonnets.txt 
+  502  tail -1 shakespeare-sonnets.txt 
+  503  tail -2 shakespeare-sonnets.txt 
+  504  cat sonnet001.txt 
+  505  cat sonnet001.txt | sort
+  506  cat sonnet001.txt | sort -f
+  507  cd ..
+  508  ls
+  509  less history2.txt 
+  510  head history2.txt 
+  511  sort history2.txt 
+  512  sort history2.txt | head
+  513  sort -b history2.txt | head
+  514  sort -bn history2.txt | head
+  515  sort -r history2.txt 
+  516  sort -r history2.txt | head
+  517  cd shakespeare/
+  518  wc -l shakespeare-sonnets.txt 
+  519  cat shakespeare-sonnets.txt | tr '[:upper:]' '[:lower:]' | egrep -o '.'| sort | uniq -c
+  520  cat shakespeare-sonnets.txt | tr '[:upper:]' '[:lower:]' | egrep -o '.'| sort | uniq -c | sort
+  521  cat shakespeare-sonnets.txt | tr '[:upper:]' '[:lower:]' | egrep -o '.'| sort | uniq -c | egrep -v '[a-z]'
+  522  cat shakespeare-sonnets.txt | tr '[:upper:]' '[:lower:]' | egrep -o '.'| sort | uniq -c | egrep -v '[a-z]' | sort
+  523  cat shakespeare-sonnets.txt | tr '[:upper:]' '[:lower:]' | egrep -o '.'| sort | uniq -c | egrep -v '[a-z]' | sort -bn
+  524  cat shakespeare-sonnets.txt | tr '[:upper:]' '[:lower:]' | egrep -o '.'| sort | uniq -c | egrep -v '[a-z]' | sort -bn | tail
+  525  cat shakespeare-sonnets.txt | tr '[:upper:]' '[:lower:]' | egrep -o '.'| sort | uniq -c | egrep -v '[a-z]' | sort -bn | tail -1
+  526  cat shakespeare-sonnets.txt 
+  527  cat shakespeare-sonnets.txt | tr 'aeiou' 'AEIOU'
+  528  cat shakespeare-sonnets.txt | tr 'aeiou' '-'
+  529* cat shakespeare-sonnets.txt |
+  530  tr 'aeiou' '-' < shakespeare-sonnets.txt 
+  531  echo 'hi mom!'
+  532  echo 'hi mom!' | tr 'aeiou' 'AEIOU'
+  533  history
+  534  echo 'hi        mom!'
+  535  echo 'hi        mom!' | tr -s ' '
+  536  cat shakespeare-sonnets.txt
+  537  cat shakespeare-sonnets.txt | tr -d '[aeiou]'
+  538  cat shakespeare-sonnets.txt | tr -d '[:alpha:]'
+  539  cat shakespeare-sonnets.txt | tr '[:space:]' ' '
+  540  cat shakespeare-sonnets.txt | tr '[:space:]' ' '| wc -l
+  541  cat shakespeare-sonnets.txt | tr '[:space:]' ' '| wc 
+  542  cat shakespeare-sonnets.txt | wc
+  543  man tr
+  544  cat shakespeare-sonnets.txt | tr '\s' ' '
+  545  cat shakespeare-sonnets.txt | tr '\\s' ' '
+  546  cat shakespeare-sonnets.txt | tr '[\s]' ' '
+  547  man tr
+  548  cat shakespeare-sonnets.txt | tr '\n' ' '
+  549  brew install gnu-sed
+  550  cat shakespeare-sonnets.txt | gsed -E 's/ /-/g'
+  551  cat shakespeare-sonnets.txt | gsed -E 's/[aeiou]/-/g'
+  552  cat shakespeare-sonnets.txt | gsed -E 's/[aeiouAEIOU]/-/g'
+  553  cat shakespeare-sonnets.txt | gsed -E 's/[aeiou]/-/gI'
+  554  man gsed
+  555  man gsed
+  556  less shakespeare-sonnets.txt 
+  557  egrep '#' shakespeare-sonnets.txt 
+  558  cat shakespeare-sonnets.txt | gsed 's/\n\n/#/g'
+  559  cat shakespeare-sonnets.txt | gsed 's/^$/#/g'
+  560  cat shakespeare-sonnets.txt | gsed 's/^$/#/g' | tr '\n' ' '
+  561  cat shakespeare-sonnets.txt | gsed 's/^$/#/g' | tr '\n' ' ' | gsed -E 's/# /\n\n/g'
+  562  cat shakespeare-sonnets.txt | gsed 's/^$/#/g' | tr '\n' ' ' | gsed -E 's/# /\n\n/g' | wc
+  563  cat shakespeare-sonnets.txt | gsed 's/^$/#/g' | tr '\n' ' ' | gsed -E 's/# /\n/g' | 
+  564  cat shakespeare-sonnets.txt | gsed 's/^$/#/g' | tr '\n' ' ' | gsed -E 's/# /\n/g' 
+  565  cat shakespeare-sonnets.txt | gsed 's/^$/#/g' | tr '\n' ' ' | gsed -E 's/# /\n/g' | wc -l
+  566  history > paragraph-task.txt
