@@ -166,6 +166,7 @@
 			- Supports `egrep` plus lookahead, lookbehind, Unicode character classes, and more (details at <https://www.systutorials.com/docs/linux/man/3-pcrepattern/>)
 	- Syntax of [regular expressions](https://pittsburgh-neh-institute.github.io/Institute-Materials-2017/schedule/week_1/regex_1.html)
 	- Activity: *data/enable1.txt*
+		- Answers: *[enable1_solutions.txt](enable1_solutions.txt)* 
 
 ### Afternoon (3 hours - 15 min break)
 
