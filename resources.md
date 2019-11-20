@@ -37,4 +37,4 @@ Packages managers simplify the installation and ... er ... management of softwar
 ## Miscellaneous
 
 * [ag](https://github.com/ggreer/the_silver_searcher) (`grep` alternative; see also <https://blog.dnsimple.com/2017/07/ag-a-better-unix-search-tool/>)
-* [`type`, `which`, amnd `whereis``](https://launchacademy.com/codecabulary/development-tools/type-which-and-whereis)
+* [`type`, `which`, and `whereis``](https://launchacademy.com/codecabulary/development-tools/type-which-and-whereis)
